@@ -1,6 +1,5 @@
-# 
 <a name="ZSHvN"></a>
-## Education 
+# Education 
 • School of Mathematical Science, Peking University (Beijing, China)<br />Ph.D. in Mathematics 09/2014 – 07/2019.<br />Advisor: Professor Yong Liu
 
 • Mathematical Institute, University of Oxford (Oxford, UK)<br />Joint Ph.D. in Mathematics 09/2017 – 10/2018.<br />Advisor: Professor Zhongmin Qian
@@ -9,14 +8,14 @@
 
 • School of Mathematical Science, Ocean University of China (Qingdao, China)<br />B.S. in Mathematics 09/2010 – 07/2014.
 <a name="LxM8F"></a>
-## Research Interests
+# Research Interests
 • **Probability:** Probability Theory, Stochastic Processes, Stochastic Analysis, Rough Path Theory and Signature.
 
 • **Machine Learning:** Statistical Machine Learning, Data Science, Signature Kernel Methods, Sequential Machine Learning.
 
 • **Economics:** AI & Data driven Economics, Economics of Science & Technology and Innovation, Applied Econometrics.
 <a name="saCl1"></a>
-## Publications & Preprint
+# Publications & Preprint
 • Cass, Thomas, Terry Lyons, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint<br />arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br />[https://arxiv.org/abs/2107.00447](https://arxiv.org/abs/2107.00447)
 
 • Chen, Zengjing, Shuhui Liu, Zhongmin Qian, and Xingcheng Xu. “Explicit solutions for a<br />class of nonlinear backward stochastic differential equations and their nodal sets.” arXiv preprint<br />arXiv:2006.00222 (2020). Probability, Uncertainty and Quantitative Risk (PUQR), forthcoming<br />(2022).<br />[https://arxiv.org/abs/2006.00222](https://arxiv.org/abs/2006.00222)
