@@ -1,12 +1,12 @@
 <a name="ZSHvN"></a>
 # Education 
-• [School of Mathematical Science](http://english.math.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) (Beijing, China)<br />Ph.D. in Mathematics 09/2014 – 07/2019.<br />Advisor: Professor Yong Liu
+• [School of Mathematical Science](http://english.math.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) (Beijing, China)<br />Ph.D. in Mathematics, 09/2014 – 07/2019.<br />Advisor: Professor Yong Liu
 
-• [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/) (Oxford, UK)<br />Joint Ph.D. in Mathematics 09/2017 – 10/2018.<br />Advisor: Professor Zhongmin Qian
+• [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/) (Oxford, UK)<br />Joint Ph.D. in Mathematics, 09/2017 – 10/2018.<br />Advisor: Professor Zhongmin Qian
 
-• [BICMR](https://bicmr.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) (Beijing, China)<br />(Beijing International Center for Mathematical Research)<br />Joint B.S. in Mathematics/Enhanced Program for Graduate Study 02/2014 – 06/2014.
+• [BICMR](https://bicmr.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) (Beijing, China)<br />(Beijing International Center for Mathematical Research)<br />Joint B.S. in Mathematics/Enhanced Program for Graduate Study, 02/2014 – 06/2014.
 
-• [School of Mathematical Science](http://eweb.ouc.edu.cn/ms/), [Ocean University of China](http://eweb.ouc.edu.cn/) (Qingdao, China)<br />B.S. in Mathematics 09/2010 – 07/2014.
+• [School of Mathematical Science](http://eweb.ouc.edu.cn/ms/), [Ocean University of China](http://eweb.ouc.edu.cn/) (Qingdao, China)<br />B.S. in Mathematics, 09/2010 – 07/2014.
 <a name="LxM8F"></a>
 # Research Interests
 • **Probability:** Probability Theory, Stochastic Processes, Stochastic Analysis, Rough Path Theory and Signature.
@@ -40,4 +40,10 @@
 # Useful Links
 [American Mathematical Society](http://www.ams.org/home/page)<br >
 [Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)<br >
+[Lens.org](https://www.lens.org/)<br >
+[AMiner](https://www.aminer.cn/)<br >
+[Knowledge Lab](https://www.knowledgelab.org/)<br >
+[Swarma Club](https://swarma.org/)<br >
+
+
 
