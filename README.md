@@ -44,6 +44,3 @@
 [AMiner](https://www.aminer.cn/)<br >
 [Knowledge Lab](https://www.knowledgelab.org/)<br >
 [Swarma Club](https://swarma.org/)<br >
-
-
-
