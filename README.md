@@ -1,4 +1,7 @@
 <a name="ZSHvN"></a>
+# Contact 
+• **Email:** xingcheng.xu18 at gmail dot com
+
 # Education 
 • School of Mathematical Science, Peking University (Beijing, China)<br />Ph.D. in Mathematics 09/2014 – 07/2019.<br />Advisor: Professor Yong Liu
 
@@ -20,7 +23,7 @@
 
 • Chen, Zengjing, Shuhui Liu, Zhongmin Qian, and Xingcheng Xu. “Explicit solutions for a<br />class of nonlinear backward stochastic differential equations and their nodal sets.” arXiv preprint<br />arXiv:2006.00222 (2020). Probability, Uncertainty and Quantitative Risk (PUQR), forthcoming<br />(2022).<br />[https://arxiv.org/abs/2006.00222](https://arxiv.org/abs/2006.00222)
 
-• An, Jian, Daixi Chen, Long Chen*, Yuanfang Li**, Wei Liu**, Jiamin Meng, Michael Spence*,<br />Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic<br />Economy.” Luohan Academy Report (2020).<br />[https://www.luohanacademy.com/research/reports/c68760b337b86d21](https://www.luohanacademy.com/research/reports/c68760b337b86d21)
+• An, Jian, Daixi Chen, Long Chen, Yuanfang Li, Wei Liu, Jiamin Meng, Michael Spence, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic Economy.” Luohan Academy Report (2020).<br />[https://www.luohanacademy.com/research/reports/c68760b337b86d21](https://www.luohanacademy.com/research/reports/c68760b337b86d21)
 
 • Qian, Zhongmin, and Xingcheng Xu. “Optimal probabilities and controls for reflecting diffusion<br />processes.” arXiv preprint arXiv:1808.04734 (2018).<br />[https://arxiv.org/abs/1808.04734](https://arxiv.org/abs/1808.04734)
 
@@ -30,4 +33,4 @@
 
 • Qian, Zhongmin, and Xingcheng Xu. “Itˆo integrals for fractional Brownian motion and applications<br />to option pricing.” arXiv preprint arXiv:1803.00335 (2018).<br />[https://arxiv.org/abs/1803.00335](https://arxiv.org/abs/1803.00335)
 
-• Feng, Renjie, Xingcheng Xu, and Robert J. Adler. “Critical radius and supremum of random<br />spherical harmonics (II).” Electronic Communications in Probability (ECP), 23 (2018): 1-11.<br />DOI: 10.1214/18-ECP156. arXiv:1709.00691 Probability (math.PR).<br />[https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full)
+• Feng, Renjie, Xingcheng Xu, and Robert J. Adler. “Critical radius and supremum of random<br />spherical harmonics (II).” Electronic Communications in Probability (ECP), 23 (2018): 1-11.<br />DOI: 10.1214/18-ECP156. arXiv:1709.00691 Probability (math.PR).<br />[https://projecteuclid.org/journals/electronic-communications-in-probability/DOI:10.1214/18-ECP156.pdf](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full)
