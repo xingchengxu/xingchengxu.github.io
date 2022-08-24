@@ -1,3 +1,8 @@
+layout: page
+title: "about"
+mathjax: true
+permalink: /about/
+
 # Xingcheng Xu
 <a name="ZSHvN"></a>
 ## Education 
