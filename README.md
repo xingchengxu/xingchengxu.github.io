@@ -36,3 +36,6 @@
 • Qian, Zhongmin, and Xingcheng Xu. “Itˆo integrals for fractional Brownian motion and applications<br />to option pricing.” arXiv preprint arXiv:1803.00335 (2018).<br />[https://arxiv.org/abs/1803.00335](https://arxiv.org/abs/1803.00335)
 
 • Feng, Renjie, Xingcheng Xu, and Robert J. Adler. “Critical radius and supremum of random<br />spherical harmonics (II).” Electronic Communications in Probability (ECP), 23 (2018): 1-11.<br />DOI: 10.1214/18-ECP156. arXiv:1709.00691 Probability (math.PR).<br />[https://projecteuclid.org/journals/electronic-communications-in-probability/DOI:10.1214/18-ECP156.pdf](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full)
+
+# Useful links
+[ Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)<br >
