@@ -17,7 +17,7 @@
 * **Economics:** AI & Data driven Economics, Economics of Science & Technology and Innovation, Applied Econometrics.
 <a name="saCl1"></a>
 
-# Publications & Preprint
+# Publications & Preprints
 * Cass, Thomas, Terry Lyons, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br />[[arXiv Version]](https://arxiv.org/abs/2107.00447) [[PDF]](https://arxiv.org/pdf/2107.00447.pdf)
 
 * Chen, Zengjing, Shuhui Liu, Zhongmin Qian, and Xingcheng Xu. “Explicit solutions for a class of nonlinear backward stochastic differential equations and their nodal sets.” arXiv preprint arXiv:2006.00222 (2020). Probability, Uncertainty and Quantitative Risk (PUQR), forthcoming<br />(2022).<br />[[arXiv Version]](https://arxiv.org/abs/2006.00222) [[PDF]](https://arxiv.org/pdf/2006.00222.pdf)
