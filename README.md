@@ -8,6 +8,7 @@
 
 * [School of Mathematical Science](http://eweb.ouc.edu.cn/ms/), [Ocean University of China](http://eweb.ouc.edu.cn/) (Qingdao, China)<br />B.S. in Mathematics, 09/2010 – 07/2014.
 <a name="LxM8F"></a>
+
 # Research Interests
 * **Probability:** Probability Theory, Stochastic Processes, Stochastic Analysis, Rough Path Theory and Signature.
 
@@ -15,6 +16,7 @@
 
 * **Economics:** AI & Data driven Economics, Economics of Science & Technology and Innovation, Applied Econometrics.
 <a name="saCl1"></a>
+
 # Publications & Preprint
 * Cass, Thomas, Terry Lyons, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br />[arXiv Version](https://arxiv.org/abs/2107.00447)
 
