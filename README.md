@@ -30,7 +30,7 @@
 
 * Qian, Zhongmin, and Xingcheng Xu. “L´evy area of fractional Ornstein-Uhlenbeck process and parameter estimation.” arXiv preprint arXiv:1803.11039 (2018).<br />[arXiv Version](https://arxiv.org/abs/1803.11039)
 
-* Qian, Zhongmin, and Xingcheng Xu. “Itˆo integrals for fractional Brownian motion and applications to option pricing.” arXiv preprint arXiv:1803.00335 (2018).<br />[arXiv Version](https://arxiv.org/abs/1803.00335)
+* Qian, Zhongmin, and Xingcheng Xu. “Itˆo integrals for fractional Brownian motion and applications to option pricing.” arXiv preprint arXiv:1803.00335 (2018).<br />[[arXiv Version]](https://arxiv.org/abs/1803.00335)
 
 * Feng, Renjie, Xingcheng Xu, and Robert J. Adler. “Critical radius and supremum of random spherical harmonics (II).” Electronic Communications in Probability (ECP), 23 (2018): 1-11. DOI: 10.1214/18-ECP156. arXiv:1709.00691 Probability (math.PR).<br />[https://projecteuclid.org/journals/ECP/DOI:10.1214/18-ECP156.pdf](https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full)
 
@@ -42,6 +42,7 @@
 # Useful Links
 [American Mathematical Society](http://www.ams.org/home/page)<br >
 [Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)<br >
+[DataSig](https://www.datasig.ac.uk/)<br >
 [Lens.org](https://www.lens.org/)<br >
 [AMiner](https://www.aminer.cn/)<br >
 [Knowledge Lab](https://www.knowledgelab.org/)<br >
