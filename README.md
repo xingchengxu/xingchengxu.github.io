@@ -1,5 +1,5 @@
 **Welcome!**
-<div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div><br />
+<div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div>
 <div align="center">Xingcheng Xu<br>徐兴成</div>
 
 <a name="ZSHvN"></a>
