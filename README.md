@@ -17,23 +17,6 @@
 * **Economics:** AI & Data driven Economics, Economics of Science & Technology and Innovation, Applied Econometrics.
 <a name="saCl1"></a>
 
-
-
-
-
-
-<a href="" title="" target="_blank"></a>
-<a href="" title="" target="_blank"></a>
-<a href="" title="" target="_blank"></a>
-<a href="" title="" target="_blank"></a>
-
-
-
-<a href="https://arxiv.org/abs/1803.00335" title="[arXiv Version]" target="_blank">[arXiv Version]</a>
-<a href="https://arxiv.org/pdf/1709.00691.pdf" title="[PDF]" target="_blank">[PDF]</a>
-
-
-
 # Publications & Preprints
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Cass, Thomas" target="_blank">Cass, Thomas</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
