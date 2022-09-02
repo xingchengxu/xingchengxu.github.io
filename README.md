@@ -1,9 +1,9 @@
-<div align="center"><span style="font-size:3em;">WELCOME!</span></div>
+<span style="font-size:2em;">**WELCOME!**</span>
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div>
 <div align="center">Xingcheng Xu<br>徐兴成</div>
 
 <a name="ZSHvN"></a>
-# Education 
+# Education {align=center}
 * <a href="http://english.math.pku.edu.cn/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="https://english.pku.edu.cn/" title="Peking University" target="_blank">Peking University</a> (Beijing, China)<br />Ph.D. in Mathematics, 09/2014 – 07/2019.<br />Advisor: <a href="https://www.math.pku.edu.cn/teachers/liuyong/eindex.html" title="Professor Yong Liu" target="_blank">Professor Yong Liu</a>
 
 * <a href="https://www.maths.ox.ac.uk/" title="Mathematical Institute" target="_blank">Mathematical Institute</a>, <a href="https://www.ox.ac.uk/" title="University of Oxford" target="_blank">University of Oxford</a> (Oxford, UK)<br />Joint Ph.D. in Mathematics, 09/2017 – 10/2018.<br />Advisor: <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Professor Zhongmin Qian" target="_blank">Professor Zhongmin Qian</a>
@@ -65,6 +65,7 @@
 <a href="" title="" target="_blank"></a>
 [<div align=center><img src="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div>](https://xingchengxu.github.io/ "Xingcheng Xu's Homepage")<br /><div align="center">Xingcheng Xu<br>徐兴成</div>
 <span style="font-size:3em;">**WELCOME!**</span>
+<div align="center"><span style="font-size:3em;">WELCOME!</span></div>
 -->
 
 <!--
