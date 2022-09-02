@@ -40,6 +40,16 @@
 * **Address:** [Pujiang Lab & Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai, P. R. China
 
 # Useful Links
+<a href="http://www.ams.org/home/page" title="American Mathematical Society" target="_blank">American Mathematical Society</a><br >
+<a href="https://www.aaai.org/" title="Association for the Advancement of Artificial Intelligence" target="_blank">Association for the Advancement of Artificial Intelligence</a><br >
+<a href="https://www.datasig.ac.uk/" title="DataSig" target="_blank">DataSig</a><br >
+<a href="https://www.luohanacademy.com/" title="Luohan Academy" target="_blank">Luohan Academy</a><br >
+<a href="https://www.lens.org/" title="Lens.org" target="_blank">Lens.org</a><br >
+<a href="https://www.aminer.cn/" title="AMiner" target="_blank">AMiner</a><br >
+<a href="https://www.knowledgelab.org/" title="Knowledge Lab" target="_blank">Knowledge Lab</a><br >
+<a href="https://swarma.org/" title="Swarma Club" target="_blank">Swarma Club</a><br >
+
+<!--
 [American Mathematical Society](http://www.ams.org/home/page)<br >
 [Association for the Advancement of Artificial Intelligence](https://www.aaai.org/)<br >
 [DataSig](https://www.datasig.ac.uk/)<br >
@@ -48,3 +58,4 @@
 [AMiner](https://www.aminer.cn/)<br >
 [Knowledge Lab](https://www.knowledgelab.org/)<br >
 [Swarma Club](https://swarma.org/)<br >
+-->
