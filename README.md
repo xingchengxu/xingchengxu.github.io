@@ -1,5 +1,5 @@
 <span style="font-size:2em;">**WELCOME!**</span>
-<div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div>
+<div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
 <div align="center">Xingcheng Xu (徐兴成)<br> Ph.D. in Mathematics </div>
 
 <a name="ZSHvN"></a>
