@@ -1,5 +1,15 @@
 <a name="ZSHvN"></a>
 # Education 
+* <a href="http://english.math.pku.edu.cn/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="https://english.pku.edu.cn/" title="Peking University" target="_blank">Peking University</a> (Beijing, China)<br />Ph.D. in Mathematics, 09/2014 – 07/2019.<br />Advisor: <a href="https://www.math.pku.edu.cn/teachers/liuyong/eindex.html" title="Professor Yong Liu" target="_blank">Professor Yong Liu</a>
+
+* <a href="https://www.maths.ox.ac.uk/" title="Mathematical Institute" target="_blank">Mathematical Institute</a>, <a href="https://www.ox.ac.uk/" title="University of Oxford" target="_blank">University of Oxford</a> (Oxford, UK)<br />Joint Ph.D. in Mathematics, 09/2017 – 10/2018.<br />Advisor: <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Professor Zhongmin Qian" target="_blank">Professor Zhongmin Qian</a>
+
+* <a href="https://bicmr.pku.edu.cn/" title="BICMR" target="_blank">BICMR</a>, <a href="https://english.pku.edu.cn/" title="Peking University" target="_blank">Peking University</a> (Beijing, China)<br />(Beijing International Center for Mathematical Research)<br />Joint B.S. in Mathematics/Enhanced Program for Graduate Study, 02/2014 – 06/2014.
+
+* <a href="http://eweb.ouc.edu.cn/ms/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="http://eweb.ouc.edu.cn/" title="Ocean University of China" target="_blank">Ocean University of China</a> (Qingdao, Shandong, China)<br />B.S. in Mathematics, 09/2010 – 07/2014.
+<a name="LxM8F"></a>
+
+<!--
 * [School of Mathematical Science](http://english.math.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) (Beijing, China)<br />Ph.D. in Mathematics, 09/2014 – 07/2019.<br />Advisor: [Professor Yong Liu](https://www.math.pku.edu.cn/teachers/liuyong/eindex.html)
 
 * [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/) (Oxford, UK)<br />Joint Ph.D. in Mathematics, 09/2017 – 10/2018.<br />Advisor: [Professor Zhongmin Qian](https://www.maths.ox.ac.uk/people/zhongmin.qian)
@@ -8,6 +18,7 @@
 
 * [School of Mathematical Science](http://eweb.ouc.edu.cn/ms/), [Ocean University of China](http://eweb.ouc.edu.cn/) (Qingdao, Shandong, China)<br />B.S. in Mathematics, 09/2010 – 07/2014.
 <a name="LxM8F"></a>
+-->
 
 # Research Interests
 * **Probability:** Probability Theory, Stochastic Processes, Stochastic Analysis, Rough Path Theory and Signature.
@@ -58,4 +69,5 @@
 [AMiner](https://www.aminer.cn/)<br >
 [Knowledge Lab](https://www.knowledgelab.org/)<br >
 [Swarma Club](https://swarma.org/)<br >
+<a href="" title="" target="_blank"></a>
 -->
