@@ -3,7 +3,7 @@
 <div align="center">Xingcheng Xu<br>徐兴成</div>
 
 <a name="ZSHvN"></a>
-# Education {align=center}
+<h1 align="center"> Education </h1>
 * <a href="http://english.math.pku.edu.cn/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="https://english.pku.edu.cn/" title="Peking University" target="_blank">Peking University</a> (Beijing, China)<br />Ph.D. in Mathematics, 09/2014 – 07/2019.<br />Advisor: <a href="https://www.math.pku.edu.cn/teachers/liuyong/eindex.html" title="Professor Yong Liu" target="_blank">Professor Yong Liu</a>
 
 * <a href="https://www.maths.ox.ac.uk/" title="Mathematical Institute" target="_blank">Mathematical Institute</a>, <a href="https://www.ox.ac.uk/" title="University of Oxford" target="_blank">University of Oxford</a> (Oxford, UK)<br />Joint Ph.D. in Mathematics, 09/2017 – 10/2018.<br />Advisor: <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Professor Zhongmin Qian" target="_blank">Professor Zhongmin Qian</a>
@@ -13,7 +13,7 @@
 * <a href="http://eweb.ouc.edu.cn/ms/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="http://eweb.ouc.edu.cn/" title="Ocean University of China" target="_blank">Ocean University of China</a> (Qingdao, Shandong, China)<br />B.S. in Mathematics, 09/2010 – 07/2014.
 <a name="LxM8F"></a>
 
-# Research Interests
+<h1 align="center"> Research Interests </h1>
 * **Probability:** Probability Theory, Stochastic Processes, Stochastic Analysis, Rough Path Theory and Signature.
 
 * **Machine Learning:** Statistical Machine Learning, Data Science, Signature Kernel Methods, Sequential Machine Learning.
@@ -21,7 +21,7 @@
 * **Economics:** AI & Data driven Economics, Economics of Science & Technology and Innovation, Applied Econometrics.
 <a name="saCl1"></a>
 
-# Publications & Preprints
+<h1 align="center"> Publications & Preprints </h1>
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Cass, Thomas" target="_blank">Cass, Thomas</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * <a href="http://en.mis.sdu.edu.cn/People/Dinstinct_Scholars/Cheung_Kong_Scholar/Zengjing_CHEN/Basic_Information.htm" title="Chen, Zengjing" target="_blank">Chen, Zengjing</a>, Shuhui Liu, <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Zhongmin Qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu. “Explicit solutions for a class of nonlinear backward stochastic differential equations and their nodal sets.” arXiv preprint arXiv:2006.00222 (2020). Probability, Uncertainty and Quantitative Risk (PUQR), forthcoming<br />(2022).<br /><a href="https://arxiv.org/abs/2006.00222" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2006.00222.pdf" title="[PDF]" target="_blank">[PDF]</a>
