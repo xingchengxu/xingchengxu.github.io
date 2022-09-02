@@ -37,7 +37,7 @@
 # Contact Information
 * **Email:** xingcheng.xu18 "at" gmail "dot" com
 
-* **Address:** [Pujiang Lab & Shanghai AI Laboratory](https://www.shlab.org.cn/), Shanghai, P. R. China
+* **Address:** <a href="https://www.shlab.org.cn/" title="Pujiang Lab & Shanghai AI Laboratory" target="_blank">Pujiang Lab & Shanghai AI Laboratory</a>, Shanghai, P. R. China
 
 # Useful Links
 <a href="http://www.ams.org/home/page" title="American Mathematical Society" target="_blank">American Mathematical Society</a><br >
