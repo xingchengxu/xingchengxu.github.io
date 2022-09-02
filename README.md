@@ -3,7 +3,7 @@
 <div align="center">Xingcheng Xu<br>徐兴成</div>
 
 <a name="ZSHvN"></a>
-<h1 align="center"> Education </h1>
+# Education
 * <a href="http://english.math.pku.edu.cn/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="https://english.pku.edu.cn/" title="Peking University" target="_blank">Peking University</a> (Beijing, China)<br />Ph.D. in Mathematics, 09/2014 – 07/2019.<br />Advisor: <a href="https://www.math.pku.edu.cn/teachers/liuyong/eindex.html" title="Professor Yong Liu" target="_blank">Professor Yong Liu</a>
 
 * <a href="https://www.maths.ox.ac.uk/" title="Mathematical Institute" target="_blank">Mathematical Institute</a>, <a href="https://www.ox.ac.uk/" title="University of Oxford" target="_blank">University of Oxford</a> (Oxford, UK)<br />Joint Ph.D. in Mathematics, 09/2017 – 10/2018.<br />Advisor: <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Professor Zhongmin Qian" target="_blank">Professor Zhongmin Qian</a>
@@ -13,7 +13,7 @@
 * <a href="http://eweb.ouc.edu.cn/ms/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="http://eweb.ouc.edu.cn/" title="Ocean University of China" target="_blank">Ocean University of China</a> (Qingdao, Shandong, China)<br />B.S. in Mathematics, 09/2010 – 07/2014.
 <a name="LxM8F"></a>
 
-<h1 align="center"> Research Interests </h1>
+# Research Interests
 * **Probability:** Probability Theory, Stochastic Processes, Stochastic Analysis, Rough Path Theory and Signature.
 
 * **Machine Learning:** Statistical Machine Learning, Data Science, Signature Kernel Methods, Sequential Machine Learning.
@@ -21,7 +21,7 @@
 * **Economics:** AI & Data driven Economics, Economics of Science & Technology and Innovation, Applied Econometrics.
 <a name="saCl1"></a>
 
-<h1 align="center"> Publications & Preprints </h1>
+# Publications & Preprints
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Cass, Thomas" target="_blank">Cass, Thomas</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * <a href="http://en.mis.sdu.edu.cn/People/Dinstinct_Scholars/Cheung_Kong_Scholar/Zengjing_CHEN/Basic_Information.htm" title="Chen, Zengjing" target="_blank">Chen, Zengjing</a>, Shuhui Liu, <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Zhongmin Qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu. “Explicit solutions for a class of nonlinear backward stochastic differential equations and their nodal sets.” arXiv preprint arXiv:2006.00222 (2020). Probability, Uncertainty and Quantitative Risk (PUQR), forthcoming<br />(2022).<br /><a href="https://arxiv.org/abs/2006.00222" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2006.00222.pdf" title="[PDF]" target="_blank">[PDF]</a>
@@ -62,13 +62,14 @@
 [AMiner](https://www.aminer.cn/)<br >
 [Knowledge Lab](https://www.knowledgelab.org/)<br >
 [Swarma Club](https://swarma.org/)<br >
+
 <a href="" title="" target="_blank"></a>
+
 [<div align=center><img src="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div>](https://xingchengxu.github.io/ "Xingcheng Xu's Homepage")<br /><div align="center">Xingcheng Xu<br>徐兴成</div>
 <span style="font-size:3em;">**WELCOME!**</span>
 <div align="center"><span style="font-size:3em;">WELCOME!</span></div>
--->
+<h1 align="center"> Education </h1>
 
-<!--
 * [School of Mathematical Science](http://english.math.pku.edu.cn/), [Peking University](https://english.pku.edu.cn/) (Beijing, China)<br />Ph.D. in Mathematics, 09/2014 – 07/2019.<br />Advisor: [Professor Yong Liu](https://www.math.pku.edu.cn/teachers/liuyong/eindex.html)
 
 * [Mathematical Institute](https://www.maths.ox.ac.uk/), [University of Oxford](https://www.ox.ac.uk/) (Oxford, UK)<br />Joint Ph.D. in Mathematics, 09/2017 – 10/2018.<br />Advisor: [Professor Zhongmin Qian](https://www.maths.ox.ac.uk/people/zhongmin.qian)
