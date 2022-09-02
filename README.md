@@ -1,4 +1,4 @@
-<span style="font-size:5em;">**WELCOME!**</span>
+<span style="font-size:3em;"><div align="center">**WELCOME!**</div></span>
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div>
 <div align="center">Xingcheng Xu<br>徐兴成</div>
 
@@ -64,6 +64,7 @@
 [Swarma Club](https://swarma.org/)<br >
 <a href="" title="" target="_blank"></a>
 [<div align=center><img src="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div>](https://xingchengxu.github.io/ "Xingcheng Xu's Homepage")<br /><div align="center">Xingcheng Xu<br>徐兴成</div>
+<span style="font-size:3em;">**WELCOME!**</span>
 -->
 
 <!--
