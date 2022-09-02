@@ -1,4 +1,4 @@
-**Welcome!**
+<span style="font-size:40em;">**WELCOME!**</span>
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="320" /></div>
 <div align="center">Xingcheng Xu<br>徐兴成</div>
 
