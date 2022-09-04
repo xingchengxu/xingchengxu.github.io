@@ -1,4 +1,4 @@
-<span style="font-size:2em;">[[**Home**](https://xingchengxu.github.io/)] [[**Education**](https://xingchengxu.github.io/Education/)] [[**Research**](https://xingchengxu.github.io/Publications/)] [[**Contact**](https://xingchengxu.github.io/Contact/)]</span>
+<span style="font-size:2em;text-align:center;display:block;">[[**Home**](https://xingchengxu.github.io/)] [[**Research**](https://xingchengxu.github.io/Publications/)] [[**Contact**](https://xingchengxu.github.io/Contact/)]</span>
 
 <a name="saCl1"></a>
 
