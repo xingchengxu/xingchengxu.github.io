@@ -25,12 +25,13 @@ I am Xingcheng Xu, a Researcher（研究员） at Shanghai AI Laboratory（上�
 }
 </style>
 
+<body>
 <div class="front">
 <img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" />
 <p>I am Xingcheng Xu, a Researcher（研究员） at Shanghai AI Laboratory（上海人工智能实验室）& Pujiang Lab（浦江国家实验室）. I got my Ph.D. at the School of Mathematical Sciences at Peking University, and was a joint Ph.D. student at the Mathematical Institute, University of Oxford. My research interests focus on the intersection of mathematics, probability theory, machine learning and economics.
 </p>
 </div>
-
+</body>
 
 
 <a name="ZSHvN"></a>
