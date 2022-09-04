@@ -10,30 +10,6 @@ I am Xingcheng Xu, a Researcher（研究员） at Shanghai AI Laboratory（上�
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" style="float:right" /></div>
 <div align="center">Xingcheng Xu (徐兴成)<br> Ph.D. in Mathematics </div>
 
-<style>
-.front{
-  background-color: "";
-  border: solid 1px black;
-  float: left;
-}
-
-.front img{
-  float: right;
-}
-
-.front p{
-  float: left;
-}
-</style>
-
-<div class="front">
-<img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
-<div class="front">
-<p>I am Xingcheng Xu, a Researcher（研究员） at Shanghai AI Laboratory（上海人工智能实验室）& Pujiang Lab（浦江国家实验室）. I got my Ph.D. at the School of Mathematical Sciences at Peking University, and was a joint Ph.D. student at the Mathematical Institute, University of Oxford. My research interests focus on the intersection of mathematics, probability theory, machine learning and economics.
-</p>
-</div>
-
-
 <a name="ZSHvN"></a>
 # Education
 * <a href="http://english.math.pku.edu.cn/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="https://english.pku.edu.cn/" title="Peking University" target="_blank">Peking University</a> (Beijing, China)<br />Ph.D. in Mathematics, 09/2014 – 07/2019.<br />Advisor: <a href="https://www.math.pku.edu.cn/teachers/liuyong/eindex.html" title="Professor Yong Liu" target="_blank">Professor Yong Liu</a>
@@ -112,4 +88,27 @@ I am Xingcheng Xu, a Researcher（研究员） at Shanghai AI Laboratory（上�
 
 * [School of Mathematical Science](http://eweb.ouc.edu.cn/ms/), [Ocean University of China](http://eweb.ouc.edu.cn/) (Qingdao, Shandong, China)<br />B.S. in Mathematics, 09/2010 – 07/2014.
 <a name="LxM8F"></a>
+
+<style>
+.front{
+  background-color: "";
+  border: solid 1px black;
+  float: left;
+}
+
+.front img{
+  float: right;
+}
+
+.front p{
+  float: left;
+}
+</style>
+
+<div class="front">
+<img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
+<div class="front">
+<p>I am Xingcheng Xu, a Researcher（研究员） at Shanghai AI Laboratory（上海人工智能实验室）& Pujiang Lab（浦江国家实验室）. I got my Ph.D. at the School of Mathematical Sciences at Peking University, and was a joint Ph.D. student at the Mathematical Institute, University of Oxford. My research interests focus on the intersection of mathematics, probability theory, machine learning and economics.
+</p>
+</div>
 -->
