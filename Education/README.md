@@ -11,11 +11,4 @@
 * <a href="http://eweb.ouc.edu.cn/ms/" title="School of Mathematical Science" target="_blank">School of Mathematical Science</a>, <a href="http://eweb.ouc.edu.cn/" title="Ocean University of China" target="_blank">Ocean University of China</a> (Qingdao, Shandong, China)<br />B.S. in Mathematics, 09/2010 – 07/2014.
 <a name="LxM8F"></a>
 
-# Research Interests
-* **Probability:** Probability Theory, Stochastic Processes, Stochastic Analysis, Rough Path Theory and Signature.
-
-* **Machine Learning:** Statistical Machine Learning, Data Science, Signature Kernel Methods, Sequential Machine Learning.
-
-* **Economics:** AI & Data driven Economics, Economics of Science & Technology and Innovation, Applied Econometrics.
-<a name="saCl1"></a>
 
