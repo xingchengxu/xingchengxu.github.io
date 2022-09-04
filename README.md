@@ -1,4 +1,4 @@
-<span style="font-size:2em;">**WELCOME!**</span>
+<span style="font-size:2em;">[[**Home**](https://xingchengxu.github.io/)] [[**Research**](https://xingchengxu.github.io/Publications/)]</span>
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
 <div align="center">Xingcheng Xu (徐兴成)<br> Ph.D. in Mathematics </div>
 
