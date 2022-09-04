@@ -1,4 +1,4 @@
-<span style="font-size:2em;text-align:center;">[[**Home**](https://xingchengxu.github.io/)] [[**Research**](https://xingchengxu.github.io/Publications/)] [[**Contact**](https://xingchengxu.github.io/Contact/)]</span>
+<span style="font-size:2em;text-align:center;line-height:18px;">[[**Home**](https://xingchengxu.github.io/)] [[**Research**](https://xingchengxu.github.io/Publications/)] [[**Contact**](https://xingchengxu.github.io/Contact/)]</span>
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
 <div align="center">Xingcheng Xu (徐兴成)<br> Ph.D. in Mathematics </div>
 
