@@ -1,0 +1,25 @@
+<span style="font-size:2em;">**WELCOME!**</span>
+<div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
+<div align="center">Xingcheng Xu (徐兴成)<br> Ph.D. in Mathematics </div>
+
+
+<a name="saCl1"></a>
+
+# Publications & Preprints
+* <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Cass, Thomas" target="_blank">Cass, Thomas</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
+
+* <a href="http://en.mis.sdu.edu.cn/People/Dinstinct_Scholars/Cheung_Kong_Scholar/Zengjing_CHEN/Basic_Information.htm" title="Chen, Zengjing" target="_blank">Chen, Zengjing</a>, Shuhui Liu, <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Zhongmin Qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu. “Explicit solutions for a class of nonlinear backward stochastic differential equations and their nodal sets.” arXiv preprint arXiv:2006.00222 (2020). Probability, Uncertainty and Quantitative Risk (PUQR), forthcoming<br />(2022).<br /><a href="https://arxiv.org/abs/2006.00222" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2006.00222.pdf" title="[PDF]" target="_blank">[PDF]</a>
+
+* An, Jian, Daixi Chen, <a href="https://www.luohanacademy.com/" title="Long Chen" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" title="Michael Spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic Economy.” Luohan Academy Report (2020).<br /><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" title="[LHA Report]" target="_blank">[LHA Report]</a> <a href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" title="[PDF]" target="_blank">[PDF]</a>
+
+* <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Qian, Zhongmin" target="_blank">Qian, Zhongmin</a>, and Xingcheng Xu. “Optimal probabilities and controls for reflecting diffusion<br />processes.” arXiv preprint arXiv:1808.04734 (2018).<br /><a href="https://arxiv.org/abs/1808.04734" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/1808.04734.pdf" title="[PDF]" target="_blank">[PDF]</a>
+
+* <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Qian, Zhongmin" target="_blank">Qian, Zhongmin</a>, and Xingcheng Xu, “Option Valuation Formula for General Garch-in-Mean Models.” SSRN preprint ssrn.3185994 (2018).<br /><a href="http://dx.doi.org/10.2139/ssrn.3185994" title="[SSRN Version]" target="_blank">[SSRN Version]</a> <a href="https://deliverypdf.ssrn.com/delivery.php?ID=033064094066086091107093122079077125028059005053019029122064111125113101107003080100056013012059041007046066097114079119021031112048062045006097006115118111109027079022001018105104072092090119008097065089114006025100022122022083001110127125011003082009&EXT=pdf&INDEX=TRUE" title="[PDF]" target="_blank">[PDF]</a>
+
+* <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Qian, Zhongmin" target="_blank">Qian, Zhongmin</a>, and Xingcheng Xu. “L´evy area of fractional Ornstein-Uhlenbeck process and parameter estimation.” arXiv preprint arXiv:1803.11039 (2018).<br /><a href="https://arxiv.org/abs/1803.11039" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/1803.11039.pdf" title="[PDF]" target="_blank">[PDF]</a>
+
+* <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Qian, Zhongmin" target="_blank">Qian, Zhongmin</a>, and Xingcheng Xu. “Itˆo integrals for fractional Brownian motion and applications to option pricing.” arXiv preprint arXiv:1803.00335 (2018).<br /><a href="https://arxiv.org/abs/1803.00335" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/1803.00335.pdf" title="[PDF]" target="_blank">[PDF]</a>
+
+* <a href="https://scholar.google.com/citations?user=VHndXCgAAAAJ&hl=zh-CN&oi=sra" title="Feng, Renjie" target="_blank">Feng, Renjie</a>, Xingcheng Xu, and <a href="https://robert.net.technion.ac.il/" title="Robert J. Adler" target="_blank">Robert J. Adler</a>. “Critical radius and supremum of random spherical harmonics (II).” Electronic Communications in Probability (ECP), 23 (2018): 1-11. DOI: 10.1214/18-ECP156. arXiv:1709.00691 Probability (math.PR).<br /><a href="https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full" title="[Journal Version]" target="_blank">[Journal Version]</a> <a href="https://arxiv.org/pdf/1709.00691.pdf" title="[PDF]" target="_blank">[PDF]</a>
+
+
