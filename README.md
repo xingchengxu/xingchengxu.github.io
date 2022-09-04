@@ -39,7 +39,7 @@
 * <a href="https://scholar.google.com/citations?user=VHndXCgAAAAJ&hl=zh-CN&oi=sra" title="Feng, Renjie" target="_blank">Feng, Renjie</a>, Xingcheng Xu, and <a href="https://robert.net.technion.ac.il/" title="Robert J. Adler" target="_blank">Robert J. Adler</a>. “Critical radius and supremum of random spherical harmonics (II).” Electronic Communications in Probability (ECP), 23 (2018): 1-11. DOI: 10.1214/18-ECP156. arXiv:1709.00691 Probability (math.PR).<br /><a href="https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full" title="[Journal Version]" target="_blank">[Journal Version]</a> <a href="https://arxiv.org/pdf/1709.00691.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 # Contact Information
-* **Email:** xingcheng.xu18 "at" gmail "dot" com
+* **Email:** xingcheng.xu18@gmail.com
 
 * **Address:** <a href="https://www.shlab.org.cn/" title="Pujiang Lab & Shanghai AI Laboratory" target="_blank">Pujiang Lab & Shanghai AI Laboratory</a>, Shanghai, P. R. China
 
