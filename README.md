@@ -5,7 +5,7 @@
 [[**Contact**](https://xingchengxu.github.io/Contact/)]
 </span>
 
-Xingcheng Xu is a Researcher at Shanghai AI Laboratory（上海人工智能实验室）& Pujiang Lab（浦江国家实验室）. He got his Ph.D. at the School of Mathematical Sciences at Peking University, and was a joint Ph.D. student at the Mathematical Institute, University of Oxford. His research interests focus on the intersection of mathematics, probability theory, machine learning and economics.
+I am Xingcheng Xu, a Researcher at Shanghai AI Laboratory（上海人工智能实验室）& Pujiang Lab（浦江国家实验室）. I got my Ph.D. at the School of Mathematical Sciences at Peking University, and was a joint Ph.D. student at the Mathematical Institute, University of Oxford. My research interests focus on the intersection of mathematics, probability theory, machine learning and economics.
 
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
 <div align="center">Xingcheng Xu (徐兴成)<br> Ph.D. in Mathematics </div>
