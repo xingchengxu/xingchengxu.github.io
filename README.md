@@ -10,6 +10,7 @@ I am Xingcheng Xu, a Researcher at Shanghai AI Laboratory（上海人工智能�
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
 <div align="center">Xingcheng Xu (徐兴成)<br> Ph.D. in Mathematics </div>
 
+<style>
 .front{
   background-color: gray;
   border: solid 1px black;
@@ -22,6 +23,7 @@ I am Xingcheng Xu, a Researcher at Shanghai AI Laboratory（上海人工智能�
 .front p{
   float: right;
 }
+</style>
 
 <div class="front">
 <img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" />
