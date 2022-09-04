@@ -10,18 +10,18 @@ I am Xingcheng Xu, a Researcher at Shanghai AI Laboratory（上海人工智能�
 <div align=center><img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" /></div>
 <div align="center">Xingcheng Xu (徐兴成)<br> Ph.D. in Mathematics </div>
 
-.front {
+.front{
   background-color: gray;
   border: solid 1px black;
-  }
+}
 
-.front img {
+.front img{
   float: left;
-  }
+}
 
-.front p {
+.front p{
   float: right;
-  }
+}
 
 <div class="front">
 <img src="/IMG/Xingcheng-Xu-Photo.jpg" width="280" />
