@@ -12,7 +12,7 @@ I am Xingcheng Xu, a Researcher（研究员） at Shanghai AI Laboratory（上�
 
 <style>
 .front{
-  background-color: gray;
+  background-color: "";
   border: solid 1px black;
   float: left;
 }
