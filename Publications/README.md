@@ -6,6 +6,12 @@
 # Publications & Preprints
 * Xingcheng Xu. “GAMMT: Generative Ambiguity Modeling Using Multiple Transformers.” arXiv preprint arXiv:2211.09812 (2022).<br /><a href="https://arxiv.org/abs/2211.09812" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2211.09812.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
+* Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. “Machine Learning and Macroeconomic Forecasting：An Empirical Analysis using Chinese Data“, (2022). (In Chinese)<br />
+杨燕青、徐兴成、葛劲峰、徐燕：中国宏观经济变量预测--可解释机器学习模型的应用与比较，2022。
+
+* Xiaohui Cui, Di Guo, Zhao Jin, Chunjie Lin, Rong Xiao, Xingcheng Xu, Chenggang Xu, Yanqing Yang. “China Artificial Intelligence Index Report 2022“, (2022). (English Version: ~200 Pages, Report)<br />
+崔晓晖、郭迪、金钊、林纯洁、肖蓉、徐兴成、许成钢 、杨燕青：中国人工智能指数报告2022，2022。 (中文版：~200页)
+
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Cass, Thomas" target="_blank">Cass, Thomas</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * <a href="http://en.mis.sdu.edu.cn/People/Dinstinct_Scholars/Cheung_Kong_Scholar/Zengjing_CHEN/Basic_Information.htm" title="Chen, Zengjing" target="_blank">Chen, Zengjing</a>, Shuhui Liu, <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Zhongmin Qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu. “Explicit solutions for a class of nonlinear backward stochastic differential equations and their nodal sets.” Probability, Uncertainty and Quantitative Risk (PUQR), Vol. 7, No. 4, (2022), 283-300. (Early access: arXiv preprint arXiv:2006.00222 (2020).) <br /><a href="https://www.aimsciences.org/article/doi/10.3934/puqr.2022017" title="[Journal Version]" target="_blank">[Journal Version]</a> <a href="https://www.aimsciences.org/article/doi/10.3934/puqr.2022017" title="[PDF]" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2006.00222" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2006.00222.pdf" title="[PDF]" target="_blank">[PDF]</a>
