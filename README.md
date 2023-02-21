@@ -37,7 +37,8 @@ I am Xingcheng Xu, a Researcher at Shanghai AI Laboratory & Pujiang Lab. I got m
 
 * Xiaohui Cui, Di Guo, Zhao Jin, Chunjie Lin, Rong Xiao, Xingcheng Xu, Chenggang Xu, Yanqing Yang. “China Artificial Intelligence Index Report 2022“, (2022). (English Version: ~200 Pages, Report)<br />
 崔晓晖、郭迪、金钊、林纯洁、肖蓉、徐兴成、许成钢 、杨燕青：中国人工智能指数报告2022，2022。 (中文版：~200页)<br />
-<a href="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/Publications/CAI2022-en.pdf" title="[PDF (English Version)]" target="_blank">[English Version]</a> <a href="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/Publications/CAI2022-cn.pdf" title="[PDF (Chinese Version)]" target="_blank">[Chinese Version]</a>
+<a href="https://xingchengxu.github.io/Publications/CAI2022-en.pdf" title="[English Version]" target="_blank">[English Version]</a> 
+<a href="https://xingchengxu.github.io/Publications/CAI2022-cn.pdf" title="[Chinese Version]" target="_blank">[Chinese Version]</a>
 
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Cass, Thomas" target="_blank">Cass, Thomas</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
