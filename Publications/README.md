@@ -9,8 +9,9 @@
 * Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. “Machine Learning and Macroeconomic Forecasting：An Empirical Analysis using Chinese Data“, (2022). (In Chinese)<br />
 杨燕青、徐兴成、葛劲峰、徐燕：中国宏观经济变量预测--可解释机器学习模型的应用与比较，2022。
 
-* Xiaohui Cui, Di Guo, Zhao Jin, Chunjie Lin, Rong Xiao, Xingcheng Xu, Chenggang Xu, Yanqing Yang. “China Artificial Intelligence Index Report 2022“, (2022). (English Version: ~200 Pages, Report)<br /><a href="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/Publications/CAI2022-en.pdf" title="[PDF (English Version)]" target="_blank">[PDF (English Version)]</a><br />
-崔晓晖、郭迪、金钊、林纯洁、肖蓉、徐兴成、许成钢 、杨燕青：中国人工智能指数报告2022，2022。 (中文版：~200页)<br /><a href="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/Publications/CAI2022-cn.pdf" title="[PDF (Chinese Version)]" target="_blank">[PDF (Chinese Version)]</a>
+* Xiaohui Cui, Di Guo, Zhao Jin, Chunjie Lin, Rong Xiao, Xingcheng Xu, Chenggang Xu, Yanqing Yang. “China Artificial Intelligence Index Report 2022“, (2022). (English Version: ~200 Pages, Report)<br />
+崔晓晖、郭迪、金钊、林纯洁、肖蓉、徐兴成、许成钢 、杨燕青：中国人工智能指数报告2022，2022。 (中文版：~200页)<br />
+<a href="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/Publications/CAI2022-en.pdf" title="[PDF (English Version)]" target="_blank">[English Version]</a> <a href="https://github.com/xingchengxu/xingchengxu.github.io/blob/main/Publications/CAI2022-cn.pdf" title="[PDF (Chinese Version)]" target="_blank">[Chinese Version]</a>
 
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Cass, Thomas" target="_blank">Cass, Thomas</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
