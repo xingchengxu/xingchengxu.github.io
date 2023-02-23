@@ -1,9 +1,11 @@
 <a name="top"></a>
+<!-- 注释
 <span style="font-size:2em;text-align:center;display:block;">
 [[**Home**](https://xingchengxu.github.io/)] 
 [[**Research**](https://xingchengxu.github.io/Publications/)] 
 [[**Contact**](https://xingchengxu.github.io/Contact/)]
 </span>
+-->
 
 My name is Xingcheng Xu, and I am a research scientist at Shanghai AI Laboratory & Pujiang Lab. Previously, I worked as a data scientist at Ant Group and Alibaba Group, and as a postdoctoral research associate at Imperial College London. I earned my Ph.D. from the School of Mathematical Sciences at Peking University, where I was also a joint Ph.D. student at the Mathematical Institute, University of Oxford.
 
