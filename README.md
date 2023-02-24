@@ -62,9 +62,7 @@ My research interests are focused on the intersection of mathematics, probabilit
 * An, Jian, Daixi Chen, <a href="https://www.luohanacademy.com/" title="Long Chen" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" title="Michael Spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic Economy.” Luohan Academy Report (2020).<br /><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" title="[LHA Report]" target="_blank">[LHA Report]</a> <a href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 # Grants and Awards
-* Shanghai Sailing Program (Shanghai scientific and technological innovation action plans), STCSM / <br />
-
-上海市“科技创新行动计划”启明星项目(扬帆专项), 2022
+* Shanghai Sailing Program (Shanghai scientific and technological innovation action plans), STCSM / 上海市“科技创新行动计划”启明星项目(扬帆专项), 2022
 
 * Hangzhou High-level Talents Category E / 杭州市高层次人才E类, 2021
 
