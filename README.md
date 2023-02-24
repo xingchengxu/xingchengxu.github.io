@@ -39,17 +39,9 @@ My research interests are focused on the intersection of mathematics, probabilit
 * Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. “Machine Learning and Macroeconomic Forecasting：An Empirical Analysis using Chinese Data“, (2022). (In Chinese)<br />
 杨燕青、徐兴成、葛劲峰、徐燕：中国宏观经济变量预测--可解释机器学习模型的应用与比较，2022。
 
-* Xiaohui Cui, Di Guo, Zhao Jin, Chunjie Lin, Rong Xiao, Xingcheng Xu, Chenggang Xu, Yanqing Yang. “China Artificial Intelligence Index Report 2022“, (2022). (English Version: ~200 Pages, Report)<br />
-崔晓晖、郭迪、金钊、林纯洁、肖蓉、徐兴成、许成钢 、杨燕青：中国人工智能指数报告2022，2022。 (中文版：~200页)<br />
-<a href="https://xingchengxu.github.io/Publications/CAI2022-en.pdf" title="[English Version]" target="_blank">[English Version]</a> 
-<a href="https://xingchengxu.github.io/Publications/CAI2022-cn.pdf" title="[Chinese Version]" target="_blank">[Chinese Version]</a>
-
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Cass, Thomas" target="_blank">Cass, Thomas</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “General Signature Kernels.” arXiv preprint arXiv:2107.00447 (2021). Annals of Applied Probability (AAP), Revised & Resubmitted.<br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * <a href="http://en.mis.sdu.edu.cn/People/Dinstinct_Scholars/Cheung_Kong_Scholar/Zengjing_CHEN/Basic_Information.htm" title="Chen, Zengjing" target="_blank">Chen, Zengjing</a>, Shuhui Liu, <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Zhongmin Qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu. “Explicit solutions for a class of nonlinear backward stochastic differential equations and their nodal sets.” Probability, Uncertainty and Quantitative Risk (PUQR), Vol. 7, No. 4, (2022), 283-300. (Early access: arXiv preprint arXiv:2006.00222 (2020).) <br /><a href="https://www.aimsciences.org/article/doi/10.3934/puqr.2022017" title="[Journal Version]" target="_blank">[Journal Version]</a> <a href="https://www.aimsciences.org/article/doi/10.3934/puqr.2022017" title="[PDF]" target="_blank">[PDF]</a> <a href="https://arxiv.org/abs/2006.00222" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2006.00222.pdf" title="[PDF]" target="_blank">[PDF]</a>
-
-
-* An, Jian, Daixi Chen, <a href="https://www.luohanacademy.com/" title="Long Chen" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" title="Michael Spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic Economy.” Luohan Academy Report (2020).<br /><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" title="[LHA Report]" target="_blank">[LHA Report]</a> <a href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Qian, Zhongmin" target="_blank">Qian, Zhongmin</a>, and Xingcheng Xu. “Optimal probabilities and controls for reflecting diffusion<br />processes.” arXiv preprint arXiv:1808.04734 (2018).<br /><a href="https://arxiv.org/abs/1808.04734" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/1808.04734.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
@@ -61,10 +53,35 @@ My research interests are focused on the intersection of mathematics, probabilit
 
 * <a href="https://scholar.google.com/citations?user=VHndXCgAAAAJ&hl=zh-CN&oi=sra" title="Feng, Renjie" target="_blank">Feng, Renjie</a>, Xingcheng Xu, and <a href="https://robert.net.technion.ac.il/" title="Robert J. Adler" target="_blank">Robert J. Adler</a>. “Critical radius and supremum of random spherical harmonics (II).” Electronic Communications in Probability (ECP), 23 (2018): 1-11. DOI: 10.1214/18-ECP156. arXiv:1709.00691 Probability (math.PR).<br /><a href="https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full" title="[Journal Version]" target="_blank">[Journal Version]</a> <a href="https://arxiv.org/pdf/1709.00691.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
+# Reports
+* Xiaohui Cui, Di Guo, Zhao Jin, Chunjie Lin, Rong Xiao, Xingcheng Xu, Chenggang Xu, Yanqing Yang. “China Artificial Intelligence Index Report 2022“, (2022). (English Version: ~200 Pages, Report)<br />
+崔晓晖、郭迪、金钊、林纯洁、肖蓉、徐兴成、许成钢 、杨燕青：中国人工智能指数报告2022，2022。 (中文版：~200页)<br />
+<a href="https://xingchengxu.github.io/Publications/CAI2022-en.pdf" title="[English Version]" target="_blank">[English Version]</a> 
+<a href="https://xingchengxu.github.io/Publications/CAI2022-cn.pdf" title="[Chinese Version]" target="_blank">[Chinese Version]</a>
+
+* An, Jian, Daixi Chen, <a href="https://www.luohanacademy.com/" title="Long Chen" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" title="Michael Spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic Economy.” Luohan Academy Report (2020).<br /><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" title="[LHA Report]" target="_blank">[LHA Report]</a> <a href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" title="[PDF]" target="_blank">[PDF]</a>
+
+# Grants and Awards
+* Shanghai Sailing Program (Shanghai scientific and technological innovation action plans), STCSM / <br />
+
+上海市“科技创新行动计划”启明星项目(扬帆专项), 2022
+
+* Hangzhou High-level Talents Category E / 杭州市高层次人才E类, 2021
+
+* Excellent Graduate of Peking University / 北京大学优秀毕业生, 2019
+
+* May 4th Scholarship, PKU / 五四奖学金, 2018
+
+* National Scholarship, PKU / 国家奖学金, 2017
+
 # Contact Information
+* **Name:** Xingcheng Xu
+
 * **Email:** xingcheng.xu18@gmail.com
 
-* **Address:** <a href="https://www.shlab.org.cn/" title="Pujiang Lab & Shanghai AI Laboratory" target="_blank">Pujiang Lab & Shanghai AI Laboratory</a>, Shanghai, P. R. China
+* **Affiliation:** <a href="https://www.shlab.org.cn/" title="Pujiang Lab & Shanghai AI Laboratory" target="_blank">Pujiang Lab & Shanghai AI Laboratory</a>
+
+* **Address:** Floor 37-38, AI Tower, No 701 Yunjin Road, Xuhui District, Shanghai, 200232, China
 
 # Useful Links
 <a href="http://www.ams.org/home/page" title="American Mathematical Society" target="_blank">American Mathematical Society</a><br >
