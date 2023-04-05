@@ -34,7 +34,7 @@ My research interests are focused on the intersection of mathematics, probabilit
 <a name="saCl1"></a>
 
 # Publications & Preprints
-* Xingcheng Xu. “GAMMT: Generative Ambiguity Modeling Using Multiple Transformers.” arXiv preprint arXiv:2211.09812 (2022).<br /><a href="https://arxiv.org/abs/2211.09812" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2211.09812.pdf" title="[PDF]" target="_blank">[PDF]</a>
+* Xingcheng Xu. “GAMMT: Generative Ambiguity Modeling Using Multiple Transformers.” arXiv preprint arXiv:2211.09812 (2022).<br /><a href="https://arxiv.org/abs/2211.09812v2" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2211.09812v2.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. “Machine Learning and Macroeconomic Forecasting：An Empirical Analysis using Chinese Data“, (2022). (In Chinese)<br />
 杨燕青、徐兴成、葛劲峰、徐燕：中国宏观经济变量预测--可解释机器学习模型的应用与比较，2022。
