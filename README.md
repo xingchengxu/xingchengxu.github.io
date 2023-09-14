@@ -42,8 +42,8 @@ My research interests are focused on the intersection of mathematics, probabilit
 
 * Xingcheng Xu. “GAMMT: Generative Ambiguity Modeling Using Multiple Transformers.” arXiv preprint arXiv:2211.09812 (2022).<br /><a href="https://arxiv.org/abs/2211.09812v2" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2211.09812v2.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
-* Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. “Machine Learning and Macroeconomic Forecasting：An Empirical Analysis using Chinese Data“, (2022). (In Chinese)<br />
-杨燕青、徐兴成、葛劲峰、徐燕：中国宏观经济变量预测--可解释机器学习模型的应用与比较，2022。
+* Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. “Machine Learning and Macroeconomic Forecasting：Comparative Analysis and Interpretation with Chinese data”, (2022). (In Chinese. Selected for the 3rd Forum on Data Science and Modern Economic Statistics, 2023.)<br />
+杨燕青、徐兴成、葛劲峰、徐燕：机器学习和中国宏观经济预测--模型应用、比较和可解释性分析，2022。入选2023年第三届数据科学与现代经济统计论坛。
 
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Thomas Cass" target="_blank">Thomas Cass</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “Weighted Signature Kernels.” Annals of Applied Probability (AAP), (2023). (Early named as “General Signature Kernels”) <br /><a href="https://arxiv.org/abs/2107.00447" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2107.00447.pdf" title="[PDF]" target="_blank">[PDF]</a> <a href="https://github.com/xingchengxu/WSigKernel" title="[GitHub Code]" target="_blank">[GitHub Code]</a>
 
