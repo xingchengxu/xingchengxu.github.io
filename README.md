@@ -7,7 +7,7 @@
 </span>
 -->
 
-My name is Xingcheng Xu, and I am a Research Scientist at Shanghai AI Laboratory & Pujiang Lab, Guest Research Fellow at Shanghai Statistical Association. Previously, I worked as a data scientist at Ant Group and Alibaba Group, and as a postdoctoral research associate at Imperial College London. I earned my Ph.D. from the School of Mathematical Sciences at Peking University, where I was also a joint Ph.D. student at the Mathematical Institute, University of Oxford.
+My name is Xingcheng Xu, and I am a Research Scientist at Shanghai AI Laboratory & PuJiang Lab, Research Fellow at Shanghai Statistical Association. Previously, I worked as a data scientist at Ant Group and Alibaba Group, and as a postdoctoral research associate at Imperial College London. I earned my Ph.D. from the School of Mathematical Sciences at Peking University, where I was also a joint Ph.D. student at the Mathematical Institute, University of Oxford.
 
 My research interests are focused on the intersection of mathematics, probability theory, machine learning, and economics. I am dedicated to exploring this interdisciplinary space and uncovering novel insights and practical applications.
 
@@ -94,7 +94,7 @@ My research interests are focused on the intersection of mathematics, probabilit
 
 * **Email:** xingcheng.xu18@gmail.com
 
-* **Affiliation:** <a href="https://www.shlab.org.cn/" title="Pujiang Lab & Shanghai AI Laboratory" target="_blank">Pujiang Lab & Shanghai AI Laboratory</a>
+* **Affiliation:** <a href="https://www.shlab.org.cn/" title="PuJiang Lab & Shanghai AI Laboratory" target="_blank">PuJiang Lab & Shanghai AI Laboratory</a>
 
 * **Address:** Floor 37-38, AI Tower, No 701 Yunjin Road, Xuhui District, Shanghai, 200232, China
 
