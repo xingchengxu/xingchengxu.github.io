@@ -68,6 +68,10 @@ My research interests are focused on the intersection of mathematics, probabilit
 * Jian An, Daixi Chen, <a href="https://www.luohanacademy.com/" title="Long Chen" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" title="Michael Spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic Economy.” Luohan Academy Report (2020).<br /><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" title="[LHA Report]" target="_blank">[LHA Report]</a> <a href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 # Slides
+* <a href="https://xingchengxu.github.io/Slides/WSigKernel_Slides_2023_XU.pdf" title="Weighted Signature Kernels and Applications, 2023-12" target="_blank">Weighted Signature Kernels and Applications, 2023-12</a>
+
+* <a href="https://xingchengxu.github.io/Slides/BSDEGen_Slides_2023_XU.pdf" title="Deep Generative Modeling with Backward Stochastic Differential Equations, 2023-04" target="_blank">Deep Generative Modeling with Backward Stochastic Differential Equations, 2023-04</a>
+
 * <a href="https://xingchengxu.github.io/Slides/ChatGPT-Understanding-2023-XU.pdf" title="Understanding ChatGPT and The Related, 2023-02" target="_blank">Understanding ChatGPT and The Related, 2023-02</a>
 
 * <a href="https://xingchengxu.github.io/Slides/AI-Frontiers-2022-XU.pdf" title="AI Research Frontiers, 2022-12" target="_blank">AI Research Frontiers, 2022-12</a>
