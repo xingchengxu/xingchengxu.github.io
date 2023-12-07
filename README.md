@@ -67,6 +67,27 @@ My research interests are focused on the intersection of mathematics, probabilit
 
 * Jian An, Daixi Chen, <a href="https://www.luohanacademy.com/" title="Long Chen" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" title="Michael Spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic Economy.” Luohan Academy Report (2020).<br /><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" title="[LHA Report]" target="_blank">[LHA Report]</a> <a href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
+# Academic Activities
+* Invited Talk: 2023/12/7, <a href="https://sites.google.com/site/researchunitfor2402/" title="" target="_blank">Seminar on rough paths, stochastic partial differential equations and related topics</a>, Technische Universität (TU) Berlin.
+  <br />Talk Title: "Weighted Signature Kernels and Applications" (online).
+  
+* Conference Tutorial: 2023/12/4, <a href="https://wine2023.shanghaitech.edu.cn/prog-overview.html" title="" target="_blank">WINE 2023 - The 19th Conference on Web and Internet Economics</a>, Shanghaitech University, China.
+  <br />Tutorial Title: "The Macroeconomics of Foundation Model / AI Economics", joint with Yanqing Yang, Jingfeng Ge.
+  
+* Conference Participation: 2023/12/4, WINE 2023 - The 19th Conference on Web and Internet Economics: “AI大模型应用、生态与伦理”闭门研讨会, Shanghaitech University, China.
+  <br />Talk Title: "Q*猜想".
+
+* Invited Talk: 2023/10/31, 2023年上海市统计系统大数据应用培训班, Shanghai, China.
+  <br />Talk Title: "人工智能前沿与AI经济学".
+
+* Conference Participation: 2023/10/20-22, AI and Economics Workshop, Hangzhou, China.
+  <br />Talk Title: "理解大语言模型".
+
+* Conference Participation: 2023/9/22-23, <a href="https://mp.weixin.qq.com/s/RJJ-T5Lh11ssj4UvJUUUuw" title="" target="_blank">第三届数据科学与现代经济统计论坛</a>, 厦门大学.
+  <br />Talk Title: "机器学习和中国宏观经济预测--模型应用、比较和可解释性分析".
+
+
+
 # Slides
 * <a href="https://xingchengxu.github.io/Slides/WSigKernel_Slides_2023_XU.pdf" title="Weighted Signature Kernels and Applications, 2023-12" target="_blank">Weighted Signature Kernels and Applications, 2023-12</a>
 
