@@ -34,7 +34,7 @@ My research interests are focused on the intersection of mathematics, probabilit
 <a name="saCl1"></a>
 
 # Publications & Preprints
-* Qin Chen, Jinfeng Ge, Huaqing Xie, Xingcheng Xu, Yanqing Yang. “Large Language Models at Work in China's Labor Market.” arXiv preprint arXiv:2308.08776 (2023). (Accepted for presentation at the 15th International Symposium on Human Capital and Labor Markets Celebrating Release of the China Human Capital Report 2023, CHLR 2023) <br /><a href="https://arxiv.org/abs/2308.08776" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2308.08776.pdf" title="[PDF]" target="_blank">[PDF]</a>
+* Qin Chen, Jinfeng Ge, Huaqing Xie, Xingcheng Xu, Yanqing Yang. “Large Language Models at Work in China's Labor Market.” arXiv preprint arXiv:2308.08776 (2023). (Accepted for presentation at the 15th International Symposium on Human Capital and Labor Markets, CHLR 2023) <br /><a href="https://arxiv.org/abs/2308.08776" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2308.08776.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * Xingcheng Xu, Zihao Pan, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" title="Haipeng Zhang" target="_blank">Haipeng Zhang</a>, Yanqing Yang. “It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models.” arXiv preprint arXiv:2308.08268 (2023).<br /><a href="https://arxiv.org/abs/2308.08268" title="[arXiv Version]" target="_blank">[arXiv Version]</a> <a href="https://arxiv.org/pdf/2308.08268.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
