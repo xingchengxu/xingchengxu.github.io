@@ -36,9 +36,9 @@ My research interests are focused on the intersection of mathematics, probabilit
 
 # Selected Publications
 
-*  Xingcheng Xu, Zihao Pan, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" title="Haipeng Zhang" target="_blank">Haipeng Zhang</a>, and Yanqing Yang. “It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models.” *The 33rd International Joint Conference on Artificial Intelligence (IJCAI)*, 2024. (accepted, CCF A) <br /> <a href="https://arxiv.org/abs/2308.08268" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2308.08268.pdf" title="[PDF]" target="_blank">[PDF]</a> <a href="https://github.com/xingchengxu/ExploreGPT" title="[GitHub Code]" target="_blank">[GitHub Code]</a>
+*  Xingcheng Xu, Zihao Pan, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" title="Haipeng Zhang" target="_blank">Haipeng Zhang</a>, and Yanqing Yang. “It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models.” *The 33rd International Joint Conference on Artificial Intelligence (IJCAI)*, 2024. (accepted, CCF A) <br /> <a href="https://arxiv.org/abs/2308.08268" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://xingchengxu.github.io/Publications/XPZY-LLM-IJCAI2024.pdf" title="[PDF]" target="_blank">[PDF]</a> <a href="https://github.com/xingchengxu/ExploreGPT" title="[GitHub Code]" target="_blank">[GitHub Code]</a>
 
-* <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Zhongmin Qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu. “Lévy Area Analysis and Parameter Estimation for fOU Processes via Non-Geometric Rough Path Theory.” *Acta Mathematica Scientia (AMSC)*, (2024). (accepted)
+* <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" title="Zhongmin Qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu. “Lévy Area Analysis and Parameter Estimation for fOU Processes via Non-Geometric Rough Path Theory.” *Acta Mathematica Scientia (ActaMS)*, (2024). (forthcoming) <br /> <a href="https://null" title="[Journal Version]" target="_blank">[Journal Version]</a> <a href="https://xingchengxu.github.io/Publications/fOU_QX2024_ActaMS.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * <a href="https://www.imperial.ac.uk/people/thomas.cass" title="Thomas Cass" target="_blank">Thomas Cass</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" title="Terry Lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu. “Weighted Signature Kernels.” *Annals of Applied Probability (AAP)*, Vol. 34, No. 1A, (2024), 585-626. (Early named as “General Signature Kernels”) <br /> <a href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1A/Weighted-signature-kernels/10.1214/23-AAP1973.short" title="[Journal Version]" target="_blank">[Journal Version]</a> <a href="https://xingchengxu.github.io/Publications/WSK_CLX2024_AAP.pdf" title="[PDF]" target="_blank">[PDF]</a> <a href="https://github.com/xingchengxu/WSigKernel" title="[GitHub Code]" target="_blank">[GitHub Code]</a>
 
@@ -89,7 +89,7 @@ My research interests are focused on the intersection of mathematics, probabilit
   <br />Talk Title: "Weighted Signature Kernels and Applications" (online).
   
 * Conference Tutorial: 2023/12/4, <a href="https://wine2023.shanghaitech.edu.cn/prog-overview.html" title="" target="_blank">WINE 2023 - The 19th Conference on Web and Internet Economics</a>, Shanghaitech University, China.
-  <br />Tutorial Title: "The Macroeconomics of Foundation Model / AI Economics", joint with Yanqing Yang, Jingfeng Ge.
+  <br />Tutorial Title: "The Macroeconomics of Foundation Model / AI Economics", joint with Yanqing Yang, Jinfeng Ge.
   
 * Conference Participation: 2023/12/4, WINE 2023 - The 19th Conference on Web and Internet Economics: “AI大模型应用、生态与伦理”闭门研讨会, Shanghaitech University, China.
   <br />Talk Title: "Q*猜想".
