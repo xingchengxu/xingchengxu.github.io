@@ -94,6 +94,9 @@ My research interests are focused on the intersection of mathematics, probabilit
 * Jian An, Daixi Chen, <a href="https://www.luohanacademy.com/" title="Long Chen" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" title="Michael Spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. “Measuring and Tracking the Global Pandemic Economy.” Luohan Academy Report (2020).<br /><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" title="[LHA Report]" target="_blank">[LHA Report]</a> <a href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 # Academic Activities
+* Conference Participation: 2024/8/3-9, <a href="https://ijcai24.org/main-track-accepted-papers/" title="" target="_blank">IJCAI 2024 - The 33rd International Joint Conference on Artificial Intelligences</a> (Main Track), Jeju, South Korea.
+  <br />Talk Title: “It Ain’t That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models”.  
+  
 * Invited Talk: 2023/12/7, <a href="https://sites.google.com/site/researchunitfor2402/" title="" target="_blank">Seminar on rough paths, stochastic partial differential equations and related topics</a>, Technische Universität (TU) Berlin.
   <br />Talk Title: "Weighted Signature Kernels and Applications" (online).
   
