@@ -40,7 +40,7 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 
 * <a href="https://sites.google.com/site/icebergzw/" title="Zi Wang" target="_blank">Zi Wang</a>, Xingcheng Xu\*, Yanqing Yang, <a href="http://www.xiaodongzhu.net/" title="Xiaodong Zhu" target="_blank">Xiaodong Zhu</a>. “Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework.” *arXiv preprint arXiv:2407.17731*, 2024. <br /> <a href="https://arxiv.org/abs/2407.17731" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2407.17731" title="[PDF]" target="_blank">[PDF]</a>
 
-* Yanqing Yang, Xingcheng Xu📧, Jinfeng Ge, Yan Xu. “Machine Learning for Economic Forecasting: An Application to China's GDP Growth.” *arXiv preprint arXiv:2407.03595*, 2024. <br /> <a href="https://arxiv.org/abs/2407.03595" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2407.03595" title="[PDF]" target="_blank">[PDF]</a>
+* Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. “Machine Learning for Economic Forecasting: An Application to China's GDP Growth.” *arXiv preprint arXiv:2407.03595*, 2024. <br /> <a href="https://arxiv.org/abs/2407.03595" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2407.03595" title="[PDF]" target="_blank">[PDF]</a>
 
 * Qin Chen, Jinfeng Ge, Huaqing Xie, Xingcheng Xu\*, Yanqing Yang. “Large Language Models at Work in China's Labor Market.” *arXiv preprint arXiv:2308.08776*, 2023. <br /> <a href="https://arxiv.org/abs/2308.08776" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2308.08776" title="[PDF]" target="_blank">[PDF]</a>
 
