@@ -26,11 +26,8 @@ My research interests are focused on the intersection of mathematics, probabilit
 <a name="LxM8F"></a>
 
 # Research Interests
-* **Probability:** Probability Theory, Stochastic Processes, Stochastic Analysis, Rough Path Theory and Signature.
+Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligence, and their Applications.
 
-* **Machine Learning:** Data Science, Machine Learning, Generative Modeling, Sequential Machine Learning, Signature Kernel Methods.
-
-* **Economics:** AI for Economics, Economics of AI.
 <a name="saCl1"></a>
 
 
