@@ -7,7 +7,7 @@
 </span>
 -->
 
-My name is Xingcheng Xu, and I am a Research Scientist at Shanghai AI Laboratory, Research Fellow at Shanghai Statistical Association. Previously, I worked as a data scientist at Ant Group and Alibaba Group. I earned my Ph.D. from the School of Mathematical Sciences at Peking University, where I was also a joint Ph.D. student at the Mathematical Institute, University of Oxford.
+My name is Xingcheng Xu, and I am a Research Scientist at Shanghai AI Laboratory. Previously, I worked as a data scientist at Ant Group and Alibaba Group. I earned my Ph.D. from the School of Mathematical Sciences at Peking University, where I was also a joint Ph.D. student at the Mathematical Institute, University of Oxford.
 
 My research interests are focused on the intersection of mathematics, probability theory, machine learning, and economics. I am dedicated to exploring this interdisciplinary space and uncovering novel insights and practical applications.
 
