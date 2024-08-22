@@ -99,9 +99,6 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
   
 * Conference Tutorial: 2023/12/4, <a href="https://wine2023.shanghaitech.edu.cn/prog-overview.html" title="" target="_blank">WINE 2023 - The 19th Conference on Web and Internet Economics</a>, Shanghaitech University, China.
   <br />Tutorial Title: "The Macroeconomics of Foundation Model / AI Economics", joint with Yanqing Yang, Jinfeng Ge.
-  
-* Conference Participation: 2023/12/4, WINE 2023 - The 19th Conference on Web and Internet Economics: “AI大模型应用、生态与伦理”闭门研讨会, Shanghaitech University, China.
-  <br />Talk Title: "Q*猜想".
 
 * Conference Participation: 2023/10/20-22, AI and Economics Workshop, Hangzhou, China.
   <br />Talk Title: "理解大语言模型".
@@ -149,8 +146,6 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 # Useful Links
 <a href="http://www.ams.org/home/page" title="American Mathematical Society" target="_blank">American Mathematical Society</a><br >
 <a href="https://www.aaai.org/" title="Association for the Advancement of Artificial Intelligence" target="_blank">Association for the Advancement of Artificial Intelligence</a><br >
-<a href="https://www.datasig.ac.uk/" title="DataSig" target="_blank">DataSig</a><br >
-<a href="https://www.luohanacademy.com/" title="Luohan Academy" target="_blank">Luohan Academy</a><br >
 <a href="https://www.lens.org/" title="Lens.org" target="_blank">Lens.org</a><br >
 <a href="https://www.aminer.cn/" title="AMiner" target="_blank">AMiner</a><br >
 <a href="https://www.knowledgelab.org/" title="Knowledge Lab" target="_blank">Knowledge Lab</a><br >
