@@ -106,9 +106,6 @@ My research interests are focused on the intersection of mathematics, probabilit
 * Conference Participation: 2023/12/4, WINE 2023 - The 19th Conference on Web and Internet Economics: “AI大模型应用、生态与伦理”闭门研讨会, Shanghaitech University, China.
   <br />Talk Title: "Q*猜想".
 
-* Invited Talk: 2023/10/31, 2023年上海市统计系统大数据应用培训班, Shanghai, China.
-  <br />Talk Title: "人工智能前沿与AI经济学".
-
 * Conference Participation: 2023/10/20-22, AI and Economics Workshop, Hangzhou, China.
   <br />Talk Title: "理解大语言模型".
 
