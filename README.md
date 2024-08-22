@@ -139,7 +139,7 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 
 * **Affiliation:** <a href="https://www.shlab.org.cn/" title="Shanghai AI Laboratory" target="_blank">Shanghai AI Laboratory</a>
 
-* **Address:** Floor 37-38, AI Tower, No 701 Yunjin Road, Xuhui District, Shanghai, 200232, China
+* **Address:** Xuhui District, Shanghai, China
 
 # Useful Links
 <a href="http://www.ams.org/home/page" title="American Mathematical Society" target="_blank">American Mathematical Society</a><br >
