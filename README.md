@@ -130,8 +130,6 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 
 * Excellent Graduate of Peking University / 北京大学优秀毕业生, 2019
 
-* May 4th Scholarship, PKU / 五四奖学金, 2018
-
 * National Scholarship, PKU / 国家奖学金, 2017
 
 # Contact Information
