@@ -109,6 +109,8 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 
 
 # Slides
+* <a href="https://xingchengxu.github.io/Slides/AI-Economics-2024-XU.pdf" title="AI Economics, 2024-02" target="_blank">AI Economics, 2024-02</a>
+
 * <a href="https://xingchengxu.github.io/Slides/WSigKernel_Slides_2023_XU.pdf" title="Weighted Signature Kernels and Applications, 2023-12" target="_blank">Weighted Signature Kernels and Applications, 2023-12</a>
 
 * <a href="https://xingchengxu.github.io/Slides/BSDEGen_Slides_2023_XU.pdf" title="Deep Generative Modeling with Backward Stochastic Differential Equations, 2023-04" target="_blank">Deep Generative Modeling with Backward Stochastic Differential Equations, 2023-04</a>
