@@ -35,6 +35,8 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 *\* as first/cofirst author,  📧 corresponding author*
 
 **Artificial Intelligence**
+* Zibo Zhao, Yuanting Zha, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" title="Haipeng Zhang" target="_blank">Haipeng Zhang</a>, and Xingcheng Xu📧. “The Two-Stage Decision-Sampling Hypothesis: Understanding the Emergence of Self-Reflection in RL-Trained LLMs.” *arXiv preprint arXiv:2601.01580*, 2026. <br /> <a href="https://arxiv.org/abs/2601.01580" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2601.01580" title="[PDF]" target="_blank">[PDF]</a> 
+
 * Xingcheng Xu. “The Policy Cliff: A Theoretical Analysis of Reward-Policy Maps in Large Language Models.” *arXiv preprint arXiv:2507.20150*, 2025. <br /> <a href="https://arxiv.org/abs/2507.20150" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2507.20150" title="[PDF]" target="_blank">[PDF]</a> <a href="https://mp.weixin.qq.com/s/C4fYaGiA2L2l_qs-8zy1aQ" title="[Jiqizhixin/机器之心]" target="_blank">[Jiqizhixin/机器之心]</a>
 
 * Shanghai AI Lab (2025). “SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law.” *arXiv preprint arXiv:2507.18576*, 2025. <br /> <a href="https://arxiv.org/abs/2507.18576" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2507.18576" title="[PDF]" target="_blank">[PDF]</a>
