@@ -35,6 +35,8 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 *\* as first/cofirst author,  📧 corresponding author*
 
 **Artificial Intelligence**
+* Qitan Lv, Tianyu Liu, Qiaosheng Zhang, Xingcheng Xu📧, Chaochao Lu. “KALE: Enhancing Knowledge Manipulation in Large Language Models via Knowledge-aware Learning.” *arXiv preprint arXiv:2601.07430*, 2026. <br /> <a href="https://arxiv.org/abs/2601.07430" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2601.07430" title="[PDF]" target="_blank">[PDF]</a>
+
 * Zibo Zhao, Yuanting Zha, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" title="Haipeng Zhang" target="_blank">Haipeng Zhang</a>, and Xingcheng Xu📧. “The Two-Stage Decision-Sampling Hypothesis: Understanding the Emergence of Self-Reflection in RL-Trained LLMs.” *arXiv preprint arXiv:2601.01580*, 2026. <br /> <a href="https://arxiv.org/abs/2601.01580" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2601.01580" title="[PDF]" target="_blank">[PDF]</a> 
 
 * Xingcheng Xu. “The Policy Cliff: A Theoretical Analysis of Reward-Policy Maps in Large Language Models.” *arXiv preprint arXiv:2507.20150*, 2025. <br /> <a href="https://arxiv.org/abs/2507.20150" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2507.20150" title="[PDF]" target="_blank">[PDF]</a> <a href="https://mp.weixin.qq.com/s/C4fYaGiA2L2l_qs-8zy1aQ" title="[Jiqizhixin/机器之心]" target="_blank">[Jiqizhixin/机器之心]</a>
