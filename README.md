@@ -141,6 +141,8 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 * <a href="https://xingchengxu.github.io/Slides/BasicsML-2021-XU.pdf" title="The Basics of Machine Learning, 2021" target="_blank">The Basics of Machine Learning, 2021</a>
 
 # Grants and Awards
+* Shanghai Leading Talent Program of Eastern Talent Plan (Leading Talent Program) / 上海市东方英才计划拔尖项目，2025
+
 * Shanghai Sailing Program (Shanghai scientific and technological innovation action plans), STCSM / 上海市“科技创新行动计划”启明星项目(扬帆专项), 2022
 
 * Hangzhou High-level Talents Category E / 杭州市高层次人才E类, 2021
