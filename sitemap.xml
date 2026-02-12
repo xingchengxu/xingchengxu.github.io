@@ -9,42 +9,141 @@
 
 <url>
   <loc>https://xingchengxu.github.io/</loc>
-  <lastmod>2023-02-26T14:34:58+00:00</lastmod>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   <priority>1.00</priority>
 </url>
+
+<!-- Publications -->
 <url>
-  <loc>https://xingchengxu.github.io/Publications/CAI2022-en.pdf</loc>
-  <lastmod>2023-02-26T14:34:56+00:00</lastmod>
+  <loc>https://xingchengxu.github.io/Publications/BSDE_CLQX2022_PUQR.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xingchengxu.github.io/Publications/CAI2022-cn.pdf</loc>
-  <lastmod>2023-02-26T14:34:56+00:00</lastmod>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
-  <loc>https://xingchengxu.github.io/Slides/ChatGPT-Understanding-2023-XU.pdf</loc>
-  <lastmod>2023-02-26T14:34:56+00:00</lastmod>
+  <loc>https://xingchengxu.github.io/Publications/CAI2022-en.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/fBM_QX2025_AMSE.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/fOU_QX2024_ActaMS.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/LHA-2020-PET.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/LLM-Work-China-CER-2025.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/LLM-Work-China-CER-Appendix-2025.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/RDP_QX2023_SPL.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/RSH_FXA2018-ECP.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/WSK_CLX2024_AAP.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/XPZY-LLM-IJCAI2024.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/XU-2023-BSDE-Gen.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Publications/Xu-2022-GAMMT.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+
+<!-- Slides -->
+<url>
+  <loc>https://xingchengxu.github.io/Slides/ACL2025_LLM_General_Poster.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Slides/ACL2025_LLM_General_Slides.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Slides/AI-Economics-2024-XU.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xingchengxu.github.io/Slides/AI-Frontiers-2022-XU.pdf</loc>
-  <lastmod>2023-02-26T14:34:56+00:00</lastmod>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xingchengxu.github.io/Slides/AmbiguityTransformer-2022-XU.pdf</loc>
-  <lastmod>2023-02-26T14:34:56+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://xingchengxu.github.io/Slides/BSDE-Ambiguity-2022-XU.pdf</loc>
-  <lastmod>2023-02-26T14:34:56+00:00</lastmod>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://xingchengxu.github.io/Slides/BasicsML-2021-XU.pdf</loc>
-  <lastmod>2023-02-26T14:34:56+00:00</lastmod>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Slides/BSDE-Ambiguity-2022-XU.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Slides/BSDEGen_Slides_2023_XU.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Slides/ChatGPT-Understanding-2023-XU.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Slides/LLMs_Generalization_PPT_IJCAI24.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Slides/LLMs_Generalization_Poster_IJCAI24.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://xingchengxu.github.io/Slides/WSigKernel_Slides_2023_XU.pdf</loc>
+  <lastmod>2026-02-12T00:00:00+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 
