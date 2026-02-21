@@ -8,246 +8,68 @@ layout: none
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Xingcheng Xu - Research Scientist</title>
   <meta name="description" content="Xingcheng Xu's Academic Homepage - Research Scientist at Shanghai AI Laboratory">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
-    * { margin: 0; padding: 0; box-sizing: border-box; }
-
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
-      color: #333;
-      background: #f7f8fa;
-      line-height: 1.7;
-    }
-
-    /* ===== Top Nav ===== */
-    nav {
-      position: sticky;
-      top: 0;
-      z-index: 100;
-      background: #fff;
-      border-bottom: 1px solid #e2e5ea;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-    }
-    nav .nav-inner {
-      max-width: 1100px;
-      margin: 0 auto;
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
-      padding: 0 24px;
-      height: 52px;
-    }
-    nav .nav-name {
-      font-weight: 700;
-      font-size: 16px;
-      color: #1a1a2e;
-      text-decoration: none;
-    }
-    nav .nav-links {
-      display: flex;
-      gap: 4px;
-      flex-wrap: wrap;
-    }
-    nav .nav-links a {
-      color: #555;
-      text-decoration: none;
-      font-size: 13.5px;
-      padding: 6px 12px;
-      border-radius: 6px;
-      transition: all 0.2s;
-    }
-    nav .nav-links a:hover {
-      background: #f0f2f5;
-      color: #1a1a2e;
-    }
-
-    /* ===== Layout ===== */
-    .container {
-      max-width: 1100px;
-      margin: 0 auto;
-      padding: 32px 24px;
-      display: flex;
-      gap: 36px;
-      align-items: flex-start;
-    }
-
-    /* ===== Sidebar ===== */
-    .sidebar {
-      width: 260px;
-      flex-shrink: 0;
-      position: sticky;
-      top: 84px;
-    }
-    .sidebar .profile-card {
-      background: #fff;
-      border-radius: 12px;
-      padding: 28px 20px;
-      text-align: center;
-      box-shadow: 0 1px 6px rgba(0,0,0,0.06);
-    }
-    .sidebar .profile-card img {
-      width: 160px;
-      height: 160px;
-      border-radius: 50%;
-      object-fit: cover;
-      margin-bottom: 16px;
-      border: 3px solid #f0f2f5;
-    }
-    .sidebar .profile-card h2 {
-      font-size: 18px;
-      color: #1a1a2e;
-      margin-bottom: 2px;
-    }
-    .sidebar .profile-card .subtitle {
-      font-size: 13px;
-      color: #888;
-      margin-bottom: 16px;
-    }
-    .sidebar .profile-card .info-list {
-      text-align: left;
-      font-size: 13px;
-      color: #555;
-    }
-    .sidebar .profile-card .info-list .info-item {
-      display: flex;
-      align-items: flex-start;
-      gap: 8px;
-      margin-bottom: 10px;
-    }
-    .sidebar .profile-card .info-list .info-icon {
-      flex-shrink: 0;
-      width: 16px;
-      text-align: center;
-      margin-top: 2px;
-    }
-    .sidebar .profile-card .info-list a {
-      color: #2563b1;
-      text-decoration: none;
-    }
-    .sidebar .profile-card .info-list a:hover {
-      text-decoration: underline;
-    }
-
-    /* ===== Main Content ===== */
-    .main {
-      flex: 1;
-      min-width: 0;
-    }
-    .section {
-      background: #fff;
-      border-radius: 12px;
-      padding: 28px 32px;
-      margin-bottom: 20px;
-      box-shadow: 0 1px 6px rgba(0,0,0,0.06);
-    }
-    .section h2 {
-      font-size: 20px;
-      color: #1a1a2e;
-      margin-bottom: 16px;
-      padding-bottom: 8px;
-      border-bottom: 2px solid #f0f2f5;
-    }
-    .section h3 {
-      font-size: 16px;
-      color: #2563b1;
-      margin: 18px 0 10px 0;
-    }
-    .section h3:first-of-type {
-      margin-top: 4px;
-    }
-    .section p {
-      margin-bottom: 10px;
-      font-size: 15px;
-    }
-    .section ul {
-      list-style: none;
-      padding: 0;
-    }
-    .section ul li {
-      padding: 8px 0;
-      border-bottom: 1px solid #f5f5f7;
-      font-size: 14.5px;
-      line-height: 1.65;
-    }
-    .section ul li:last-child {
-      border-bottom: none;
-    }
-    .section a {
-      color: #2563b1;
-      text-decoration: none;
-    }
-    .section a:hover {
-      text-decoration: underline;
-    }
-    .pub-links a {
-      display: inline-block;
-      font-size: 12.5px;
-      padding: 2px 8px;
-      margin: 3px 2px 0 0;
-      background: #f0f4f8;
-      border-radius: 4px;
-      color: #2563b1;
-      transition: background 0.15s;
-    }
-    .pub-links a:hover {
-      background: #dce6f0;
-      text-decoration: none;
-    }
-    .note {
-      font-size: 13px;
-      color: #888;
-      font-style: italic;
-      margin-bottom: 12px;
-    }
-
-    /* ===== About (intro) ===== */
-    .intro {
-      font-size: 15px;
-      line-height: 1.8;
-    }
-
-    /* ===== Footer ===== */
-    footer {
-      text-align: center;
-      padding: 24px;
-      font-size: 13px;
-      color: #aaa;
-    }
-    footer a {
-      color: #888;
-      text-decoration: none;
-    }
-    footer a:hover {
-      text-decoration: underline;
-    }
-
-    /* ===== Responsive ===== */
-    @media (max-width: 768px) {
-      .container {
-        flex-direction: column;
-        padding: 16px;
-      }
-      .sidebar {
-        width: 100%;
-        position: static;
-      }
-      .section {
-        padding: 20px;
-      }
-      nav .nav-inner {
-        flex-direction: column;
-        height: auto;
-        padding: 10px 16px;
-        gap: 6px;
-      }
-      nav .nav-links {
-        justify-content: center;
-      }
-    }
+    *{margin:0;padding:0;box-sizing:border-box}
+    body{font-family:'Inter',-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,sans-serif;color:#374151;background:#f3f4f6;line-height:1.7;-webkit-font-smoothing:antialiased}
+    nav{position:sticky;top:0;z-index:100;background:rgba(255,255,255,0.82);backdrop-filter:blur(12px);-webkit-backdrop-filter:blur(12px);border-bottom:1px solid rgba(0,0,0,0.06);box-shadow:0 1px 8px rgba(0,0,0,0.04)}
+    nav .nav-inner{max-width:1120px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:0 28px;height:54px}
+    nav .nav-name{font-weight:700;font-size:17px;color:#111827;text-decoration:none;letter-spacing:-0.3px}
+    nav .nav-links{display:flex;gap:2px;flex-wrap:wrap}
+    nav .nav-links a{color:#6b7280;text-decoration:none;font-size:13.5px;font-weight:500;padding:6px 13px;border-radius:8px;transition:all 0.2s ease}
+    nav .nav-links a:hover,nav .nav-links a.active{background:#f0f4ff;color:#2563eb}
+    .container{max-width:1120px;margin:0 auto;padding:36px 28px;display:flex;gap:32px;align-items:flex-start}
+    .sidebar{width:270px;flex-shrink:0;position:sticky;top:90px}
+    .profile-card{background:#fff;border-radius:16px;padding:32px 22px 26px;text-align:center;box-shadow:0 2px 12px rgba(0,0,0,0.05);border:1px solid rgba(0,0,0,0.04)}
+    .profile-card .avatar-ring{display:inline-block;padding:4px;border-radius:50%;background:linear-gradient(135deg,#3b82f6,#8b5cf6,#ec4899);margin-bottom:18px}
+    .profile-card .avatar-ring img{width:150px;height:150px;border-radius:50%;object-fit:cover;border:3px solid #fff;display:block;transition:transform 0.3s ease}
+    .profile-card .avatar-ring:hover img{transform:scale(1.05)}
+    .profile-card h2{font-size:19px;font-weight:700;color:#111827;margin-bottom:3px;letter-spacing:-0.3px}
+    .profile-card .subtitle{font-size:13px;color:#9ca3af;margin-bottom:20px}
+    .profile-card .info-list{text-align:left;font-size:13px;color:#6b7280}
+    .profile-card .info-item{display:flex;align-items:flex-start;gap:10px;margin-bottom:12px}
+    .profile-card .info-icon{flex-shrink:0;width:18px;text-align:center;margin-top:1px;font-size:14px}
+    .profile-card .info-list a{color:#2563eb;text-decoration:none;transition:color 0.15s}
+    .profile-card .info-list a:hover{color:#1d4ed8;text-decoration:underline}
+    .social-links{display:flex;justify-content:center;gap:10px;margin-top:18px;padding-top:16px;border-top:1px solid #f3f4f6}
+    .social-links a{display:inline-flex;align-items:center;justify-content:center;width:36px;height:36px;border-radius:10px;background:#f3f4f6;color:#6b7280;text-decoration:none;font-size:15px;transition:all 0.2s ease}
+    .social-links a:hover{background:#2563eb;color:#fff;transform:translateY(-2px)}
+    .main{flex:1;min-width:0}
+    .section{background:#fff;border-radius:16px;padding:28px 32px;margin-bottom:20px;box-shadow:0 2px 12px rgba(0,0,0,0.05);border:1px solid rgba(0,0,0,0.04);animation:fadeInUp 0.5s ease both}
+    .section:nth-child(1){animation-delay:0.05s}.section:nth-child(2){animation-delay:0.1s}.section:nth-child(3){animation-delay:0.15s}.section:nth-child(4){animation-delay:0.2s}.section:nth-child(5){animation-delay:0.25s}.section:nth-child(6){animation-delay:0.3s}.section:nth-child(7){animation-delay:0.35s}.section:nth-child(8){animation-delay:0.4s}
+    @keyframes fadeInUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
+    .section h2{font-size:18px;font-weight:700;color:#111827;margin-bottom:18px;padding-left:14px;border-left:3px solid #2563eb;letter-spacing:-0.2px}
+    .section h3{font-size:15px;font-weight:600;color:#4b5563;margin:20px 0 10px 0;padding:6px 12px;background:#f8fafc;border-radius:8px;display:inline-block}
+    .section h3:first-of-type{margin-top:4px}
+    .section p{margin-bottom:10px;font-size:14.5px}
+    .section ul{list-style:none;padding:0}
+    .section ul li{padding:10px 12px;border-radius:8px;font-size:14px;line-height:1.7;transition:background 0.15s ease;margin-bottom:2px}
+    .section ul li:hover{background:#f8fafc}
+    .section a{color:#2563eb;text-decoration:none;transition:color 0.15s}
+    .section a:hover{color:#1d4ed8;text-decoration:underline}
+    .pub-links{margin-top:6px}
+    .pub-links a{display:inline-flex;align-items:center;gap:4px;font-size:12px;font-weight:500;padding:3px 10px;margin:3px 3px 0 0;border-radius:6px;color:#2563eb;background:#eff6ff;border:1px solid #dbeafe;transition:all 0.15s ease;text-decoration:none}
+    .pub-links a:hover{background:#dbeafe;border-color:#bfdbfe;text-decoration:none;transform:translateY(-1px)}
+    .pub-links a.pdf{color:#dc2626;background:#fef2f2;border-color:#fecaca}.pub-links a.pdf:hover{background:#fecaca;border-color:#fca5a5}
+    .pub-links a.code{color:#059669;background:#ecfdf5;border-color:#a7f3d0}.pub-links a.code:hover{background:#a7f3d0;border-color:#6ee7b7}
+    .pub-links a.media{color:#7c3aed;background:#f5f3ff;border-color:#ddd6fe}.pub-links a.media:hover{background:#ddd6fe;border-color:#c4b5fd}
+    .pub-links a.slides{color:#d97706;background:#fffbeb;border-color:#fde68a}.pub-links a.slides:hover{background:#fde68a;border-color:#fcd34d}
+    .note{font-size:13px;color:#9ca3af;font-style:italic;margin-bottom:8px}
+    .intro{font-size:14.5px;line-height:1.85;color:#4b5563}
+    .research-tags{display:flex;flex-wrap:wrap;gap:6px;margin-top:14px}
+    .research-tags span{font-size:12.5px;font-weight:500;padding:4px 12px;border-radius:20px;background:#f0f4ff;color:#3b82f6;border:1px solid #dbeafe}
+    footer{text-align:center;padding:28px;font-size:13px;color:#9ca3af}
+    footer a{color:#6b7280;text-decoration:none}footer a:hover{text-decoration:underline}
+    .back-to-top{position:fixed;bottom:32px;right:32px;width:42px;height:42px;border-radius:12px;background:#2563eb;color:#fff;display:flex;align-items:center;justify-content:center;font-size:18px;text-decoration:none;box-shadow:0 4px 14px rgba(37,99,235,0.35);opacity:0;transform:translateY(10px);transition:all 0.3s ease;pointer-events:none}
+    .back-to-top.visible{opacity:1;transform:translateY(0);pointer-events:auto}
+    .back-to-top:hover{background:#1d4ed8;transform:translateY(-2px)}
+    @media(max-width:768px){.container{flex-direction:column;padding:16px;gap:16px}.sidebar{width:100%;position:static}.section{padding:20px;border-radius:12px}nav .nav-inner{flex-direction:column;height:auto;padding:10px 16px;gap:6px}nav .nav-links{justify-content:center}.back-to-top{bottom:20px;right:20px}}
   </style>
 </head>
 <body>
 
-<!-- Navigation -->
 <nav>
   <div class="nav-inner">
     <a href="#" class="nav-name">Xingcheng Xu</a>
@@ -265,140 +87,103 @@ layout: none
 </nav>
 
 <div class="container">
-
-  <!-- Sidebar -->
   <aside class="sidebar">
     <div class="profile-card">
-      <img src="/IMG/Xingcheng-Xu-Photo.jpg" alt="Xingcheng Xu">
+      <div class="avatar-ring"><img src="/IMG/Xingcheng-Xu-Photo.jpg" alt="Xingcheng Xu"></div>
       <h2>Xingcheng Xu</h2>
       <div class="subtitle">徐兴成 · Ph.D. in Mathematics</div>
       <div class="info-list">
-        <div class="info-item">
-          <span class="info-icon">🏛</span>
-          <span>Research Scientist<br><a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Laboratory</a></span>
-        </div>
-        <div class="info-item">
-          <span class="info-icon">📧</span>
-          <span><a href="mailto:xingcheng.xu18@gmail.com">xingcheng.xu18@gmail.com</a></span>
-        </div>
-        <div class="info-item">
-          <span class="info-icon">📍</span>
-          <span>Xuhui District, Shanghai, China</span>
-        </div>
+        <div class="info-item"><span class="info-icon">🏛</span><span>Research Scientist<br><a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Laboratory</a></span></div>
+        <div class="info-item"><span class="info-icon">📧</span><span><a href="mailto:xingcheng.xu18@gmail.com">xingcheng.xu18@gmail.com</a></span></div>
+        <div class="info-item"><span class="info-icon">📍</span><span>Xuhui District, Shanghai, China</span></div>
+      </div>
+      <div class="social-links">
+        <a href="https://scholar.google.com/citations?user=YOUR_ID" target="_blank" title="Google Scholar">🎓</a>
+        <a href="https://github.com/xingchengxu" target="_blank" title="GitHub">💻</a>
+        <a href="https://arxiv.org/search/?query=xingcheng+xu" target="_blank" title="arXiv">📑</a>
       </div>
     </div>
   </aside>
 
-  <!-- Main Content -->
   <div class="main">
-
-    <!-- About -->
     <div class="section" id="about">
       <h2>About</h2>
       <p class="intro">My name is Xingcheng Xu, and I am a research scientist at Shanghai AI Laboratory. Previously, I worked as a data scientist at Ant Group and Alibaba Group. I earned my Ph.D. from the School of Mathematical Sciences at Peking University, where I was also a joint Ph.D. student at the Mathematical Institute, University of Oxford.</p>
       <p class="intro">My research interests are focused on the intersection of probability theory, artificial intelligence and their applications. I am dedicated to exploring this interdisciplinary space and uncovering novel insights and practical applications.</p>
-      <p style="margin-top:12px; font-size:14px; color:#555;"><strong>Research Interests:</strong> Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligence, and their Applications.</p>
+      <div class="research-tags"><span>Probability Theory</span><span>Stochastic Analysis</span><span>Machine Learning</span><span>Artificial Intelligence</span><span>Applications</span></div>
     </div>
 
-    <!-- Education -->
     <div class="section" id="education">
       <h2>Education</h2>
       <ul>
-        <li><a href="http://english.math.pku.edu.cn/" target="_blank">School of Mathematical Science</a>, <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a> (Beijing, China)<br>Ph.D. in Mathematics, 09/2014 – 07/2019.<br>Advisor: <a href="https://www.math.pku.edu.cn/teachers/liuyong/eindex.html" target="_blank">Prof. Yong Liu</a></li>
-        <li><a href="https://www.maths.ox.ac.uk/" target="_blank">Mathematical Institute</a>, <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a> (Oxford, UK)<br>Joint Ph.D. in Mathematics, 09/2017 – 10/2018.<br>Advisor: <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Prof. Zhongmin Qian</a></li>
+        <li><a href="http://english.math.pku.edu.cn/" target="_blank">School of Mathematical Science</a>, <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a> (Beijing, China)<br>Ph.D. in Mathematics, 09/2014 – 07/2019. Advisor: <a href="https://www.math.pku.edu.cn/teachers/liuyong/eindex.html" target="_blank">Prof. Yong Liu</a></li>
+        <li><a href="https://www.maths.ox.ac.uk/" target="_blank">Mathematical Institute</a>, <a href="https://www.ox.ac.uk/" target="_blank">University of Oxford</a> (Oxford, UK)<br>Joint Ph.D. in Mathematics, 09/2017 – 10/2018. Advisor: <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Prof. Zhongmin Qian</a></li>
         <li><a href="https://bicmr.pku.edu.cn/" target="_blank">BICMR</a>, <a href="https://english.pku.edu.cn/" target="_blank">Peking University</a> (Beijing, China)<br>(Beijing International Center for Mathematical Research)<br>Joint B.S. in Mathematics / Enhanced Program for Graduate Study, 02/2014 – 06/2014.</li>
         <li><a href="http://eweb.ouc.edu.cn/ms/" target="_blank">School of Mathematical Science</a>, <a href="http://eweb.ouc.edu.cn/" target="_blank">Ocean University of China</a> (Qingdao, Shandong, China)<br>B.S. in Mathematics, 09/2010 – 07/2014.</li>
       </ul>
     </div>
 
-    <!-- Publications -->
     <div class="section" id="publications">
       <h2>Selected Publications</h2>
       <p class="note">* first/cofirst author, 📧 corresponding author</p>
-
       <h3>Artificial Intelligence</h3>
       <ul>
-        <li>Xingcheng Xu*, Jingjing Qu, Qiaosheng Zhang, Chaochao Lu, Yanqing Yang, Na Zou, Xia Hu. "Epistemic Traps: Rational Misalignment Driven by Model Misspecification." 2026.
-          <div class="pub-links"><a href="https://safeagi-01.github.io/papers/rational-misalignment/" target="_blank">Version</a> <a href="https://safeagi-01.github.io/papers/rational-misalignment/Rational-Misalignment-Paper-2026-01-27.pdf" target="_blank">PDF</a></div></li>
-        <li>Zhao Tong, Chunlin Gong, Yiping Zhang, Haichao Shi, Qiang Liu, Xingcheng Xu📧, Shu Wu, Xiao-Yu Zhang. "CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation." <em>arXiv preprint arXiv:2602.04856</em>, 2026.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2602.04856" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2602.04856" target="_blank">PDF</a></div></li>
-        <li>Zeming Wei, Qiaosheng Zhang, Xia Hu, Xingcheng Xu📧. "RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning." <em>arXiv preprint arXiv:2602.04224</em>, 2026.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2602.04224" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2602.04224" target="_blank">PDF</a></div></li>
-        <li>Xiaoyu Wen, Zhida He, Han Qi, Ziyu Wan, Zhongtian Ma, Ying Wen, Tianhang Zheng, Xingcheng Xu, Chaochao Lu, Qiaosheng Zhang. "MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety." <em>arXiv preprint arXiv:2602.01539</em>, 2026.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2602.01539" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2602.01539" target="_blank">PDF</a></div></li>
-        <li>Qitan Lv, Tianyu Liu, Qiaosheng Zhang, Xingcheng Xu📧, Chaochao Lu. "KALE: Enhancing Knowledge Manipulation in Large Language Models via Knowledge-aware Learning." <em>arXiv preprint arXiv:2601.07430</em>, 2026.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2601.07430" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2601.07430" target="_blank">PDF</a></div></li>
-        <li>Zibo Zhao, Yuanting Zha, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" target="_blank">Haipeng Zhang</a>, and Xingcheng Xu📧. "The Two-Stage Decision-Sampling Hypothesis: Understanding the Emergence of Self-Reflection in RL-Trained LLMs." <em>arXiv preprint arXiv:2601.01580</em>, 2026.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2601.01580" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2601.01580" target="_blank">PDF</a></div></li>
-        <li>Xingcheng Xu. "The Policy Cliff: A Theoretical Analysis of Reward-Policy Maps in Large Language Models." <em>arXiv preprint arXiv:2507.20150</em>, 2025.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2507.20150" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2507.20150" target="_blank">PDF</a> <a href="https://mp.weixin.qq.com/s/C4fYaGiA2L2l_qs-8zy1aQ" target="_blank">机器之心</a></div></li>
-        <li>Shanghai AI Lab (2025). "SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law." <em>arXiv preprint arXiv:2507.18576</em>, 2025.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2507.18576" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2507.18576" target="_blank">PDF</a></div></li>
-        <li>Xingcheng Xu*, Zibo Zhao, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" target="_blank">Haipeng Zhang</a>, and Yanqing Yang. "Principled Understanding of Generalization for Generative Transformer Models in Arithmetic Reasoning Tasks." <em>The 63rd Annual Meeting of the Association for Computational Linguistics (ACL)</em>, (Main, Volume 1: Long Papers), 4721-4747, 2025. (CCF A)
-          <div class="pub-links"><a href="https://aclanthology.org/2025.acl-long.235/" target="_blank">Published</a> <a href="https://aclanthology.org/2025.acl-long.235.pdf" target="_blank">PDF</a> <a href="https://github.com/xingchengxu/ArithmeticLLM" target="_blank">GitHub</a> <a href="https://xingchengxu.github.io/Slides/ACL2025_LLM_General_Slides.pdf" target="_blank">Slides</a> <a href="https://xingchengxu.github.io/Slides/ACL2025_LLM_General_Poster.pdf" target="_blank">Poster</a> <a href="https://www.mittrchina.com/news/detail/14093" target="_blank">MIT Tech Review</a> <a href="https://mp.weixin.qq.com/s/B3skjJsouhHOp0fwzxdNTA" target="_blank">DeepTech</a></div></li>
-        <li>Xingcheng Xu*, Zihao Pan, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" target="_blank">Haipeng Zhang</a>, and Yanqing Yang. "It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models." <em>The 33rd International Joint Conference on Artificial Intelligence (IJCAI)</em>, 6578-6586, 2024. (CCF A)
-          <div class="pub-links"><a href="https://www.ijcai.org/proceedings/2024/727" target="_blank">Published</a> <a href="https://xingchengxu.github.io/Publications/XPZY-LLM-IJCAI2024.pdf" target="_blank">PDF</a> <a href="https://github.com/xingchengxu/ExploreGPT" target="_blank">GitHub</a> <a href="https://xingchengxu.github.io/Slides/LLMs_Generalization_PPT_IJCAI24.pdf" target="_blank">Slides</a> <a href="https://xingchengxu.github.io/Slides/LLMs_Generalization_Poster_IJCAI24.pdf" target="_blank">Poster</a></div></li>
+        <li>Xingcheng Xu*, Jingjing Qu, Qiaosheng Zhang, Chaochao Lu, Yanqing Yang, Na Zou, Xia Hu. "Epistemic Traps: Rational Misalignment Driven by Model Misspecification." 2026.<div class="pub-links"><a href="https://safeagi-01.github.io/papers/rational-misalignment/" target="_blank">Version</a> <a class="pdf" href="https://safeagi-01.github.io/papers/rational-misalignment/Rational-Misalignment-Paper-2026-01-27.pdf" target="_blank">PDF</a></div></li>
+        <li>Zhao Tong, Chunlin Gong, Yiping Zhang, Haichao Shi, Qiang Liu, Xingcheng Xu📧, Shu Wu, Xiao-Yu Zhang. "CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation." <em>arXiv:2602.04856</em>, 2026.<div class="pub-links"><a href="https://arxiv.org/abs/2602.04856" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2602.04856" target="_blank">PDF</a></div></li>
+        <li>Zeming Wei, Qiaosheng Zhang, Xia Hu, Xingcheng Xu📧. "RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning." <em>arXiv:2602.04224</em>, 2026.<div class="pub-links"><a href="https://arxiv.org/abs/2602.04224" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2602.04224" target="_blank">PDF</a></div></li>
+        <li>Xiaoyu Wen, Zhida He, Han Qi, Ziyu Wan, Zhongtian Ma, Ying Wen, Tianhang Zheng, Xingcheng Xu, Chaochao Lu, Qiaosheng Zhang. "MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety." <em>arXiv:2602.01539</em>, 2026.<div class="pub-links"><a href="https://arxiv.org/abs/2602.01539" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2602.01539" target="_blank">PDF</a></div></li>
+        <li>Qitan Lv, Tianyu Liu, Qiaosheng Zhang, Xingcheng Xu📧, Chaochao Lu. "KALE: Enhancing Knowledge Manipulation in Large Language Models via Knowledge-aware Learning." <em>arXiv:2601.07430</em>, 2026.<div class="pub-links"><a href="https://arxiv.org/abs/2601.07430" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2601.07430" target="_blank">PDF</a></div></li>
+        <li>Zibo Zhao, Yuanting Zha, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" target="_blank">Haipeng Zhang</a>, and Xingcheng Xu📧. "The Two-Stage Decision-Sampling Hypothesis: Understanding the Emergence of Self-Reflection in RL-Trained LLMs." <em>arXiv:2601.01580</em>, 2026.<div class="pub-links"><a href="https://arxiv.org/abs/2601.01580" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2601.01580" target="_blank">PDF</a></div></li>
+        <li>Xingcheng Xu. "The Policy Cliff: A Theoretical Analysis of Reward-Policy Maps in Large Language Models." <em>arXiv:2507.20150</em>, 2025.<div class="pub-links"><a href="https://arxiv.org/abs/2507.20150" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2507.20150" target="_blank">PDF</a> <a class="media" href="https://mp.weixin.qq.com/s/C4fYaGiA2L2l_qs-8zy1aQ" target="_blank">机器之心</a></div></li>
+        <li>Shanghai AI Lab (2025). "SafeWork-R1: Coevolving Safety and Intelligence under the AI-45 Law." <em>arXiv:2507.18576</em>, 2025.<div class="pub-links"><a href="https://arxiv.org/abs/2507.18576" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2507.18576" target="_blank">PDF</a></div></li>
+        <li>Xingcheng Xu*, Zibo Zhao, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" target="_blank">Haipeng Zhang</a>, and Yanqing Yang. "Principled Understanding of Generalization for Generative Transformer Models in Arithmetic Reasoning Tasks." <em>ACL 2025</em>, (Main, Volume 1: Long Papers), 4721-4747. (CCF A)<div class="pub-links"><a href="https://aclanthology.org/2025.acl-long.235/" target="_blank">Published</a> <a class="pdf" href="https://aclanthology.org/2025.acl-long.235.pdf" target="_blank">PDF</a> <a class="code" href="https://github.com/xingchengxu/ArithmeticLLM" target="_blank">GitHub</a> <a class="slides" href="https://xingchengxu.github.io/Slides/ACL2025_LLM_General_Slides.pdf" target="_blank">Slides</a> <a class="slides" href="https://xingchengxu.github.io/Slides/ACL2025_LLM_General_Poster.pdf" target="_blank">Poster</a> <a class="media" href="https://www.mittrchina.com/news/detail/14093" target="_blank">MIT Tech Review</a> <a class="media" href="https://mp.weixin.qq.com/s/B3skjJsouhHOp0fwzxdNTA" target="_blank">DeepTech</a></div></li>
+        <li>Xingcheng Xu*, Zihao Pan, <a href="https://faculty.sist.shanghaitech.edu.cn/zhanghp/" target="_blank">Haipeng Zhang</a>, and Yanqing Yang. "It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models." <em>IJCAI 2024</em>, 6578-6586. (CCF A)<div class="pub-links"><a href="https://www.ijcai.org/proceedings/2024/727" target="_blank">Published</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/XPZY-LLM-IJCAI2024.pdf" target="_blank">PDF</a> <a class="code" href="https://github.com/xingchengxu/ExploreGPT" target="_blank">GitHub</a> <a class="slides" href="https://xingchengxu.github.io/Slides/LLMs_Generalization_PPT_IJCAI24.pdf" target="_blank">Slides</a> <a class="slides" href="https://xingchengxu.github.io/Slides/LLMs_Generalization_Poster_IJCAI24.pdf" target="_blank">Poster</a></div></li>
       </ul>
 
       <h3>AI × Social Science</h3>
       <ul>
-        <li>Haixing Gong, Hui Zou, Xingzhou Liang, Shiyuan Meng, Pinlong Cai, Xingcheng Xu, Jingjing Qu. "A Global Dataset Mapping the AI Innovation from Academic Research to Industrial Patents." <em>Scientific Data</em>, 12, 1261, 2025.
-          <div class="pub-links"><a href="https://www.nature.com/articles/s41597-025-05518-3" target="_blank">Journal</a> <a href="https://www.nature.com/articles/s41597-025-05518-3" target="_blank">PDF</a></div></li>
-        <li>Qin Chen, Jinfeng Ge, Huaqing Xie, Xingcheng Xu*📧, Yanqing Yang. "Large Language Models at Work in China's Labor Market." <em>China Economic Review (CER)</em>, Volume 92, 102413, 2025.
-          <div class="pub-links"><a href="https://doi.org/10.1016/j.chieco.2025.102413" target="_blank">Journal</a> <a href="https://xingchengxu.github.io/Publications/LLM-Work-China-CER-2025.pdf" target="_blank">PDF</a> <a href="https://xingchengxu.github.io/Publications/LLM-Work-China-CER-Appendix-2025.pdf" target="_blank">Appendix</a> <a href="https://mp.weixin.qq.com/s/WnlhK8-pFljHnPJDKbRT1w" target="_blank">Media:CER</a></div></li>
-        <li><a href="https://sites.google.com/site/icebergzw/" target="_blank">Zi Wang</a>, Xingcheng Xu*, Yanqing Yang, <a href="http://www.xiaodongzhu.net/" target="_blank">Xiaodong Zhu</a>. "Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework." <em>arXiv preprint arXiv:2407.17731</em>, 2024.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2407.17731" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2407.17731" target="_blank">PDF</a></div></li>
-        <li>Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. "Machine Learning for Economic Forecasting: An Application to China's GDP Growth." <em>arXiv preprint arXiv:2407.03595</em>, 2024.
-          <div class="pub-links"><a href="https://arxiv.org/abs/2407.03595" target="_blank">ArXiv</a> <a href="https://arxiv.org/pdf/2407.03595" target="_blank">PDF</a></div></li>
+        <li>Haixing Gong, Hui Zou, Xingzhou Liang, Shiyuan Meng, Pinlong Cai, Xingcheng Xu, Jingjing Qu. "A Global Dataset Mapping the AI Innovation from Academic Research to Industrial Patents." <em>Scientific Data</em>, 12, 1261, 2025.<div class="pub-links"><a href="https://www.nature.com/articles/s41597-025-05518-3" target="_blank">Journal</a> <a class="pdf" href="https://www.nature.com/articles/s41597-025-05518-3" target="_blank">PDF</a></div></li>
+        <li>Qin Chen, Jinfeng Ge, Huaqing Xie, Xingcheng Xu*📧, Yanqing Yang. "Large Language Models at Work in China's Labor Market." <em>China Economic Review (CER)</em>, Volume 92, 102413, 2025.<div class="pub-links"><a href="https://doi.org/10.1016/j.chieco.2025.102413" target="_blank">Journal</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/LLM-Work-China-CER-2025.pdf" target="_blank">PDF</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/LLM-Work-China-CER-Appendix-2025.pdf" target="_blank">Appendix</a> <a class="media" href="https://mp.weixin.qq.com/s/WnlhK8-pFljHnPJDKbRT1w" target="_blank">Media:CER</a></div></li>
+        <li><a href="https://sites.google.com/site/icebergzw/" target="_blank">Zi Wang</a>, Xingcheng Xu*, Yanqing Yang, <a href="http://www.xiaodongzhu.net/" target="_blank">Xiaodong Zhu</a>. "Optimal Trade and Industrial Policies in the Global Economy: A Deep Learning Framework." <em>arXiv:2407.17731</em>, 2024.<div class="pub-links"><a href="https://arxiv.org/abs/2407.17731" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2407.17731" target="_blank">PDF</a></div></li>
+        <li>Yanqing Yang, Xingcheng Xu, Jinfeng Ge, Yan Xu. "Machine Learning for Economic Forecasting: An Application to China's GDP Growth." <em>arXiv:2407.03595</em>, 2024.<div class="pub-links"><a href="https://arxiv.org/abs/2407.03595" target="_blank">ArXiv</a> <a class="pdf" href="https://arxiv.org/pdf/2407.03595" target="_blank">PDF</a></div></li>
       </ul>
 
       <h3>Probability Theory</h3>
       <ul>
-        <li><a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu*📧. "Rough Path Renormalization from Stratonovich to Itô for Fractional Brownian Motion." <em>Acta Mathematica Sinica, Eng. Ser. (AMSE)</em>, Vol. 41, No. 9, 2195-2230, 2025.
-          <div class="pub-links"><a href="https://link.springer.com/article/10.1007/s10114-025-4377-x" target="_blank">Journal</a> <a href="https://xingchengxu.github.io/Publications/fBM_QX2025_AMSE.pdf" target="_blank">PDF</a></div></li>
-        <li><a href="https://www.imperial.ac.uk/people/thomas.cass" target="_blank">Thomas Cass</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu*. "Weighted Signature Kernels." <em>Annals of Applied Probability (AAP)</em>, Vol. 34, No. 1A, (2024), 585-626. (Early named as "General Signature Kernels")
-          <div class="pub-links"><a href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1A/Weighted-signature-kernels/10.1214/23-AAP1973.short" target="_blank">Journal</a> <a href="https://xingchengxu.github.io/Publications/WSK_CLX2024_AAP.pdf" target="_blank">PDF</a> <a href="https://github.com/xingchengxu/WSigKernel" target="_blank">GitHub</a></div></li>
-        <li><a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu*📧. "Lévy Area Analysis and Parameter Estimation for fOU Processes via Non-Geometric Rough Path Theory." <em>Acta Mathematica Sci (ActaMS)</em>, Vol. 44, (2024), 1609-1638.
-          <div class="pub-links"><a href="https://link.springer.com/article/10.1007/s10473-024-0501-8" target="_blank">Journal</a> <a href="https://xingchengxu.github.io/Publications/fOU_QX2024_ActaMS.pdf" target="_blank">PDF</a></div></li>
-        <li><a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu*📧. "Probability Bounds for Reflecting Diffusion Processes." <em>Statistics and Probability Letters (SPL)</em>, Vol 199, (2023), 109855.
-          <div class="pub-links"><a href="https://doi.org/10.1016/j.spl.2023.109855" target="_blank">Journal</a> <a href="https://xingchengxu.github.io/Publications/RDP_QX2023_SPL.pdf" target="_blank">PDF</a></div></li>
-        <li><a href="http://en.mis.sdu.edu.cn/People/Dinstinct_Scholars/Cheung_Kong_Scholar/Zengjing_CHEN/Basic_Information.htm" target="_blank">Zengjing Chen</a>, Shuhui Liu, <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu*. "Explicit solutions for a class of nonlinear backward stochastic differential equations and their nodal sets." <em>Probability, Uncertainty and Quantitative Risk (PUQR)</em>, Vol. 7, No. 4, (2022), 283-300.
-          <div class="pub-links"><a href="https://www.aimsciences.org/article/doi/10.3934/puqr.2022017" target="_blank">Journal</a> <a href="https://xingchengxu.github.io/Publications/BSDE_CLQX2022_PUQR.pdf" target="_blank">PDF</a></div></li>
-        <li><a href="https://scholar.google.com/citations?user=VHndXCgAAAAJ&hl=zh-CN&oi=sra" target="_blank">Renjie Feng</a>, Xingcheng Xu📧, and <a href="https://robert.net.technion.ac.il/" target="_blank">Robert J. Adler</a>. "Critical radius and supremum of random spherical harmonics (II)." <em>Electronic Communications in Probability (ECP)</em>, 23 (2018): 1-11. DOI: 10.1214/18-ECP156.
-          <div class="pub-links"><a href="https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full" target="_blank">Journal</a> <a href="https://xingchengxu.github.io/Publications/RSH_FXA2018-ECP.pdf" target="_blank">PDF</a></div></li>
+        <li><a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu*📧. "Rough Path Renormalization from Stratonovich to Itô for Fractional Brownian Motion." <em>AMSE</em>, Vol. 41, No. 9, 2195-2230, 2025.<div class="pub-links"><a href="https://link.springer.com/article/10.1007/s10114-025-4377-x" target="_blank">Journal</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/fBM_QX2025_AMSE.pdf" target="_blank">PDF</a></div></li>
+        <li><a href="https://www.imperial.ac.uk/people/thomas.cass" target="_blank">Thomas Cass</a>, <a href="https://www.maths.ox.ac.uk/people/terry.lyons" target="_blank">Terry Lyons</a>, and Xingcheng Xu*. "Weighted Signature Kernels." <em>AAP</em>, Vol. 34, No. 1A, (2024), 585-626.<div class="pub-links"><a href="https://projecteuclid.org/journals/annals-of-applied-probability/volume-34/issue-1A/Weighted-signature-kernels/10.1214/23-AAP1973.short" target="_blank">Journal</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/WSK_CLX2024_AAP.pdf" target="_blank">PDF</a> <a class="code" href="https://github.com/xingchengxu/WSigKernel" target="_blank">GitHub</a></div></li>
+        <li><a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu*📧. "Lévy Area Analysis and Parameter Estimation for fOU Processes via Non-Geometric Rough Path Theory." <em>ActaMS</em>, Vol. 44, (2024), 1609-1638.<div class="pub-links"><a href="https://link.springer.com/article/10.1007/s10473-024-0501-8" target="_blank">Journal</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/fOU_QX2024_ActaMS.pdf" target="_blank">PDF</a></div></li>
+        <li><a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu*📧. "Probability Bounds for Reflecting Diffusion Processes." <em>SPL</em>, Vol 199, (2023), 109855.<div class="pub-links"><a href="https://doi.org/10.1016/j.spl.2023.109855" target="_blank">Journal</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/RDP_QX2023_SPL.pdf" target="_blank">PDF</a></div></li>
+        <li><a href="http://en.mis.sdu.edu.cn/People/Dinstinct_Scholars/Cheung_Kong_Scholar/Zengjing_CHEN/Basic_Information.htm" target="_blank">Zengjing Chen</a>, Shuhui Liu, <a href="https://www.maths.ox.ac.uk/people/zhongmin.qian" target="_blank">Zhongmin Qian</a>, and Xingcheng Xu*. "Explicit solutions for a class of nonlinear BSDEs and their nodal sets." <em>PUQR</em>, Vol. 7, No. 4, (2022), 283-300.<div class="pub-links"><a href="https://www.aimsciences.org/article/doi/10.3934/puqr.2022017" target="_blank">Journal</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/BSDE_CLQX2022_PUQR.pdf" target="_blank">PDF</a></div></li>
+        <li><a href="https://scholar.google.com/citations?user=VHndXCgAAAAJ&hl=zh-CN&oi=sra" target="_blank">Renjie Feng</a>, Xingcheng Xu📧, and <a href="https://robert.net.technion.ac.il/" target="_blank">Robert J. Adler</a>. "Critical radius and supremum of random spherical harmonics (II)." <em>ECP</em>, 23 (2018): 1-11.<div class="pub-links"><a href="https://projecteuclid.org/journals/electronic-communications-in-probability/volume-23/issue-none/Critical-radius-and-supremum-of-random-spherical-harmonics-II/10.1214/18-ECP156.full" target="_blank">Journal</a> <a class="pdf" href="https://xingchengxu.github.io/Publications/RSH_FXA2018-ECP.pdf" target="_blank">PDF</a></div></li>
       </ul>
     </div>
 
-    <!-- Reports -->
     <div class="section" id="reports">
       <h2>Reports</h2>
       <ul>
-        <li>Xiaohui Cui, Di Guo, Zhao Jin, Chunjie Lin, Rong Xiao, Xingcheng Xu, Chenggang Xu, Yanqing Yang. "China Artificial Intelligence Index Report 2022", (2022).<br>崔晓晖、郭迪、金钊、林纯洁、肖蓉、徐兴成、许成钢、杨燕青：中国人工智能指数报告2022，2022。(中文版：~200页)
-          <div class="pub-links"><a href="https://xingchengxu.github.io/Publications/CAI2022-en.pdf" target="_blank">English Version</a> <a href="https://xingchengxu.github.io/Publications/CAI2022-cn.pdf" target="_blank">Chinese Version</a></div></li>
-        <li>Jian An, Daixi Chen, <a href="https://www.luohanacademy.com/" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. "Measuring and Tracking the Global Pandemic Economy." Luohan Academy Report (2020).
-          <div class="pub-links"><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" target="_blank">LHA Report</a> <a href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" target="_blank">PDF</a></div></li>
+        <li>Xiaohui Cui, Di Guo, Zhao Jin, Chunjie Lin, Rong Xiao, Xingcheng Xu, Chenggang Xu, Yanqing Yang. "China Artificial Intelligence Index Report 2022", (2022).<br>崔晓晖、郭迪、金钊、林纯洁、肖蓉、徐兴成、许成钢、杨燕青：中国人工智能指数报告2022。(中文版：~200页)<div class="pub-links"><a href="https://xingchengxu.github.io/Publications/CAI2022-en.pdf" target="_blank">English</a> <a href="https://xingchengxu.github.io/Publications/CAI2022-cn.pdf" target="_blank">Chinese</a></div></li>
+        <li>Jian An, Daixi Chen, <a href="https://www.luohanacademy.com/" target="_blank">Long Chen</a>, Yuanfang Li, Wei Liu, Jiamin Meng, <a href="https://www.gsb.stanford.edu/faculty-research/faculty/michael-spence" target="_blank">Michael Spence</a>, Qidi Wang, Xingcheng Xu, and Kaiwen Zheng. "Measuring and Tracking the Global Pandemic Economy." Luohan Academy Report (2020).<div class="pub-links"><a href="https://www.luohanacademy.com/research/reports/c68760b337b86d21" target="_blank">LHA Report</a> <a class="pdf" href="https://gw.alipayobjects.com/os/bmw-prod/6498ef8e-407d-4977-9dda-93ddeb73b37a.pdf" target="_blank">PDF</a></div></li>
       </ul>
     </div>
 
-    <!-- Activities -->
     <div class="section" id="activities">
       <h2>Academic Activities</h2>
       <ul>
-        <li>Conference Participation: 2024/8/3-9, <a href="https://ijcai24.org/main-track-accepted-papers/" target="_blank">IJCAI 2024 - The 33rd International Joint Conference on Artificial Intelligence</a> (Main Track), Jeju, South Korea.<br>Talk Title: "It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models".</li>
-        <li>Invited Talk: 2023/12/7, <a href="https://sites.google.com/site/researchunitfor2402/" target="_blank">Seminar on rough paths, stochastic partial differential equations and related topics</a>, Technische Universität (TU) Berlin.<br>Talk Title: "Weighted Signature Kernels and Applications" (online).</li>
-        <li>Conference Tutorial: 2023/12/4, <a href="https://wine2023.shanghaitech.edu.cn/prog-overview.html" target="_blank">WINE 2023 - The 19th Conference on Web and Internet Economics</a>, Shanghaitech University, China.<br>Tutorial Title: "The Macroeconomics of Foundation Model / AI Economics", joint with Yanqing Yang, Jinfeng Ge.</li>
-        <li>Conference Participation: 2023/10/20-22, AI and Economics Workshop, Hangzhou, China.<br>Talk Title: "理解大语言模型".</li>
-        <li>Conference Participation: 2023/9/22-23, <a href="https://mp.weixin.qq.com/s/RJJ-T5Lh11ssj4UvJUUUuw" target="_blank">第三届数据科学与现代经济统计论坛</a>, 厦门大学.<br>Talk Title: "机器学习和中国宏观经济预测--模型应用、比较和可解释性分析".</li>
+        <li>Conference Participation: 2024/8/3-9, <a href="https://ijcai24.org/main-track-accepted-papers/" target="_blank">IJCAI 2024</a> (Main Track), Jeju, South Korea.<br>Talk: "It Ain't That Bad: Understanding the Mysterious Performance Drop in OOD Generalization for Generative Transformer Models".</li>
+        <li>Invited Talk: 2023/12/7, <a href="https://sites.google.com/site/researchunitfor2402/" target="_blank">Seminar on rough paths, SPDEs and related topics</a>, TU Berlin.<br>Talk: "Weighted Signature Kernels and Applications" (online).</li>
+        <li>Conference Tutorial: 2023/12/4, <a href="https://wine2023.shanghaitech.edu.cn/prog-overview.html" target="_blank">WINE 2023</a>, ShanghaiTech University, China.<br>Tutorial: "The Macroeconomics of Foundation Model / AI Economics", joint with Yanqing Yang, Jinfeng Ge.</li>
+        <li>Conference Participation: 2023/10/20-22, AI and Economics Workshop, Hangzhou, China.<br>Talk: "理解大语言模型".</li>
+        <li>Conference Participation: 2023/9/22-23, <a href="https://mp.weixin.qq.com/s/RJJ-T5Lh11ssj4UvJUUUuw" target="_blank">第三届数据科学与现代经济统计论坛</a>, 厦门大学.<br>Talk: "机器学习和中国宏观经济预测--模型应用、比较和可解释性分析".</li>
       </ul>
     </div>
 
-    <!-- Slides -->
     <div class="section" id="slides">
       <h2>Slides</h2>
       <ul>
         <li><a href="https://xingchengxu.github.io/Slides/AI-Economics-2024-XU.pdf" target="_blank">AI Economics, 2024-02</a></li>
         <li><a href="https://xingchengxu.github.io/Slides/WSigKernel_Slides_2023_XU.pdf" target="_blank">Weighted Signature Kernels and Applications, 2023-12</a></li>
-        <li><a href="https://xingchengxu.github.io/Slides/BSDEGen_Slides_2023_XU.pdf" target="_blank">Deep Generative Modeling with Backward Stochastic Differential Equations, 2023-04</a></li>
+        <li><a href="https://xingchengxu.github.io/Slides/BSDEGen_Slides_2023_XU.pdf" target="_blank">Deep Generative Modeling with BSDEs, 2023-04</a></li>
         <li><a href="https://xingchengxu.github.io/Slides/ChatGPT-Understanding-2023-XU.pdf" target="_blank">Understanding ChatGPT and The Related, 2023-02</a></li>
         <li><a href="https://xingchengxu.github.io/Slides/AI-Frontiers-2022-XU.pdf" target="_blank">AI Research Frontiers, 2022-12</a></li>
         <li><a href="https://xingchengxu.github.io/Slides/AmbiguityTransformer-2022-XU.pdf" target="_blank">Generative Ambiguity Modeling Using Multiple Transformers, 2022-11</a></li>
@@ -407,29 +192,27 @@ layout: none
       </ul>
     </div>
 
-    <!-- Awards -->
     <div class="section" id="awards">
       <h2>Grants and Awards</h2>
       <ul>
-        <li>Shanghai Leading Talent Program of Eastern Talent Plan (Leading Talent Program) / 上海市东方英才计划拔尖项目，2025</li>
-        <li>Shanghai Sailing Program (Shanghai scientific and technological innovation action plans), STCSM / 上海市"科技创新行动计划"启明星项目(扬帆专项), 2022</li>
+        <li>Shanghai Leading Talent Program of Eastern Talent Plan / 上海市东方英才计划拔尖项目，2025</li>
+        <li>Shanghai Sailing Program, STCSM / 上海市"科技创新行动计划"启明星项目(扬帆专项), 2022</li>
         <li>Hangzhou High-level Talents Category E / 杭州市高层次人才E类, 2021</li>
         <li>Excellent Graduate of Peking University / 北京大学优秀毕业生, 2019</li>
         <li>National Scholarship, PKU / 国家奖学金, 2017</li>
       </ul>
     </div>
 
-    <!-- Contact -->
     <div class="section" id="contact">
       <h2>Contact &amp; Links</h2>
-      <p style="font-size:14px; margin-bottom:14px;">
+      <p style="font-size:14px;margin-bottom:14px;color:#4b5563;">
         <strong>Email:</strong> <a href="mailto:xingcheng.xu18@gmail.com">xingcheng.xu18@gmail.com</a><br>
         <strong>Affiliation:</strong> <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Laboratory</a><br>
         <strong>Address:</strong> Xuhui District, Shanghai, China
       </p>
       <h3>Useful Links</h3>
       <div class="pub-links" style="margin-top:6px;">
-        <a href="http://www.ams.org/home/page" target="_blank">American Mathematical Society</a>
+        <a href="http://www.ams.org/home/page" target="_blank">AMS</a>
         <a href="https://www.aaai.org/" target="_blank">AAAI</a>
         <a href="https://www.lens.org/" target="_blank">Lens.org</a>
         <a href="https://www.aminer.cn/" target="_blank">AMiner</a>
@@ -438,12 +221,19 @@ layout: none
       </div>
     </div>
 
-  </div><!-- end main -->
-</div><!-- end container -->
+  </div>
+</div>
 
-<footer>
-  &copy; 2025 Xingcheng Xu · Powered by <a href="https://pages.github.com" target="_blank">GitHub Pages</a>
-</footer>
+<a href="#" class="back-to-top" id="backToTop">↑</a>
 
+<footer>&copy; 2025 Xingcheng Xu · Powered by <a href="https://pages.github.com" target="_blank">GitHub Pages</a></footer>
+
+<script>
+const btn=document.getElementById('backToTop');
+window.addEventListener('scroll',()=>{btn.classList.toggle('visible',window.scrollY>400)});
+const sections=document.querySelectorAll('.section[id]');
+const navLinks=document.querySelectorAll('nav .nav-links a');
+window.addEventListener('scroll',()=>{let c='';sections.forEach(s=>{if(window.scrollY>=s.offsetTop-100)c=s.id});navLinks.forEach(a=>{a.classList.remove('active');if(a.getAttribute('href')==='#'+c)a.classList.add('active')})});
+</script>
 </body>
 </html>
