@@ -1,15 +1,15 @@
 <a name="top"></a>
 
-<p align="center">
-  <a href="#education">Education</a> ·
-  <a href="#research-interests">Research Interests</a> ·
-  <a href="#selected-publications">Publications</a> ·
-  <a href="#reports">Reports</a> ·
-  <a href="#academic-activities">Activities</a> ·
-  <a href="#slides">Slides</a> ·
-  <a href="#grants-and-awards">Awards</a> ·
-  <a href="#contact-information">Contact</a>
-</p>
+<div class="nav-bar">
+  <a href="#education">📖 Education</a>
+  <a href="#research-interests">🔬 Research</a>
+  <a href="#selected-publications">📄 Publications</a>
+  <a href="#reports">📊 Reports</a>
+  <a href="#academic-activities">🎤 Activities</a>
+  <a href="#slides">📑 Slides</a>
+  <a href="#grants-and-awards">🏆 Awards</a>
+  <a href="#contact-information">✉️ Contact</a>
+</div>
 
 My name is Xingcheng Xu, and I am a research scientist at Shanghai AI Laboratory. Previously, I worked as a data scientist at Ant Group and Alibaba Group. I earned my Ph.D. from the School of Mathematical Sciences at Peking University, where I was also a joint Ph.D. student at the Mathematical Institute, University of Oxford.
 
@@ -180,7 +180,7 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 <a href="https://www.knowledgelab.org/" title="Knowledge Lab" target="_blank">Knowledge Lab</a><br >
 <a href="https://swarma.org/" title="Swarma Club" target="_blank">Swarma Club</a><br >
 
-<a href="#top">Back to Top</a>
+<a href="#top" class="back-to-top">⬆ Back to Top</a>
 
 <!-- 注释
 [American Mathematical Society](http://www.ams.org/home/page)<br >
