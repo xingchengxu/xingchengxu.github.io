@@ -60,7 +60,9 @@ layout: none
     nav .nav-inner{max-width:1120px;margin:0 auto;display:flex;align-items:center;justify-content:space-between;padding:0 28px;height:54px}
     nav .nav-name{font-weight:700;font-size:17px;color:var(--text);text-decoration:none;letter-spacing:-0.3px;transition:color 0.3s}
     nav .nav-links{display:flex;gap:2px;flex-wrap:wrap}
-    nav .nav-links a{position:relative;color:var(--text-muted);text-decoration:none;font-size:13.5px;font-weight:500;padding:6px 13px 8px;border-radius:8px;transition:all 0.2s ease}
+    nav .nav-links a{position:relative;color:var(--text-muted);text-decoration:none;font-size:13.5px;font-weight:500;padding:6px 13px 8px;border-radius:8px;transition:all 0.2s ease;overflow:hidden}
+    nav .nav-links a .ripple{position:absolute;border-radius:50%;background:var(--accent);opacity:0.15;transform:scale(0);animation:navRipple 0.5s ease-out forwards;pointer-events:none}
+    @keyframes navRipple{to{transform:scale(2.5);opacity:0}}
     nav .nav-links a::after{content:'';position:absolute;bottom:0;left:50%;transform:translateX(-50%) scaleX(0);width:60%;height:2.5px;border-radius:2px;background:var(--accent);transition:transform 0.25s cubic-bezier(0.4,0,0.2,1)}
     nav .nav-links a:hover{color:var(--accent)}
     nav .nav-links a.active{color:var(--accent)}
@@ -363,6 +365,18 @@ document.querySelectorAll('#publications li, #reports li').forEach(li=>{
     const m=node.textContent.match(/^(.*?)([\u201c"\u2018])(.*?)([\u201d"\u2019])(.*)/s);
     if(m){const b=document.createElement('b');b.textContent=m[2]+m[3]+m[4];const after=document.createTextNode(m[5]);node.textContent=m[1];node.parentNode.insertBefore(b,node.nextSibling);node.parentNode.insertBefore(after,b.nextSibling);break}
   }
+});// Nav ripple effect
+document.querySelectorAll('nav .nav-links a').forEach(a=>{
+  a.addEventListener('click',function(e){
+    const r=document.createElement('span');r.className='ripple';
+    const rect=this.getBoundingClientRect();
+    const size=Math.max(rect.width,rect.height);
+    r.style.width=r.style.height=size+'px';
+    r.style.left=(e.clientX-rect.left-size/2)+'px';
+    r.style.top=(e.clientY-rect.top-size/2)+'px';
+    this.appendChild(r);
+    r.addEventListener('animationend',()=>r.remove());
+  });
 });
 </script>
 </body>
