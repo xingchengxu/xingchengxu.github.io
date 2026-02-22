@@ -8,6 +8,7 @@ layout: none
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Xingcheng Xu - Research Scientist</title>
   <meta name="description" content="Xingcheng Xu's Academic Homepage - Research Scientist at Shanghai AI Laboratory">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎓</text></svg>">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
@@ -96,7 +97,9 @@ layout: none
     .social-links a:hover::after{opacity:1}
     /* === Main Content === */
     .main{flex:1;min-width:0}
-    .section{background:var(--card);border-radius:16px;padding:28px 32px;margin-bottom:20px;box-shadow:var(--card-shadow);border:1px solid var(--card-border);animation:fadeInUp 0.5s ease both;scroll-margin-top:70px;transition:background 0.3s,border-color 0.3s,box-shadow 0.3s}
+    .section{background:var(--card);border-radius:16px;padding:28px 32px;margin-bottom:20px;box-shadow:var(--card-shadow);border:1px solid var(--card-border);animation:fadeInUp 0.5s ease both;scroll-margin-top:70px;transition:background 0.3s,border-color 0.3s,box-shadow 0.3s,transform 0.25s ease}
+    .section:hover{transform:translateY(-2px);box-shadow:0 6px 24px rgba(15,23,42,0.1)}
+    [data-theme="dark"] .section:hover{box-shadow:0 6px 24px rgba(0,0,0,0.4)}
     .section:nth-child(1){animation-delay:0.05s}.section:nth-child(2){animation-delay:0.1s}.section:nth-child(3){animation-delay:0.15s}.section:nth-child(4){animation-delay:0.2s}.section:nth-child(5){animation-delay:0.25s}.section:nth-child(6){animation-delay:0.3s}.section:nth-child(7){animation-delay:0.35s}.section:nth-child(8){animation-delay:0.4s}
     @keyframes fadeInUp{from{opacity:0;transform:translateY(16px)}to{opacity:1;transform:translateY(0)}}
     .section h2{font-size:18px;font-weight:700;color:var(--text);margin-bottom:18px;padding-left:14px;border-left:3px solid var(--section-accent);letter-spacing:-0.2px;transition:color 0.3s,border-color 0.3s}
@@ -126,8 +129,23 @@ layout: none
     .back-to-top{position:fixed;bottom:32px;right:32px;width:42px;height:42px;border-radius:12px;background:var(--back-top);color:#fff;display:flex;align-items:center;justify-content:center;font-size:18px;text-decoration:none;box-shadow:0 4px 14px var(--back-top-shadow);opacity:0;transform:translateY(10px);transition:all 0.3s ease;pointer-events:none}
     .back-to-top.visible{opacity:1;transform:translateY(0);pointer-events:auto}
     .back-to-top:hover{transform:translateY(-2px);filter:brightness(1.15)}
+    /* === Hamburger Menu (Mobile) === */
+    .menu-toggle{display:none;background:none;border:none;cursor:pointer;color:var(--text-muted);padding:6px;border-radius:8px;transition:color 0.2s}
+    .menu-toggle:hover{color:var(--accent)}
+    .menu-toggle svg{width:22px;height:22px;display:block}
     /* === Responsive === */
-    @media(max-width:768px){.container{flex-direction:column;padding:16px;gap:16px}.sidebar{width:100%;position:static}.section{padding:20px;border-radius:12px}nav .nav-inner{flex-direction:column;height:auto;padding:10px 16px;gap:6px}nav .nav-links{justify-content:center}.back-to-top{bottom:20px;right:20px}.theme-toggle{position:absolute;top:10px;right:16px}}
+    @media(max-width:768px){
+      .container{flex-direction:column;padding:16px;gap:16px}
+      .sidebar{width:100%;position:static}
+      .section{padding:20px;border-radius:12px}
+      nav .nav-inner{padding:0 16px;height:50px}
+      nav .nav-links{display:none;position:absolute;top:100%;left:0;right:0;background:var(--nav-bg);backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);border-bottom:1px solid var(--nav-border);flex-direction:column;padding:8px 16px 12px;gap:0;box-shadow:0 8px 24px rgba(0,0,0,0.1)}
+      nav .nav-links.open{display:flex}
+      nav .nav-links a{padding:10px 12px;border-radius:8px;font-size:14px}
+      .menu-toggle{display:flex;align-items:center;justify-content:center}
+      .back-to-top{bottom:20px;right:20px}
+      .theme-toggle{margin-left:auto;margin-right:8px}
+    }
   </style>
 </head>
 <body>
@@ -135,7 +153,10 @@ layout: none
 <nav>
   <div class="nav-inner">
     <a href="#" class="nav-name">Xingcheng Xu</a>
-    <div class="nav-links">
+    <button class="menu-toggle" id="menuToggle" aria-label="Toggle menu">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="3" y1="6" x2="21" y2="6"/><line x1="3" y1="12" x2="21" y2="12"/><line x1="3" y1="18" x2="21" y2="18"/></svg>
+    </button>
+    <div class="nav-links" id="navLinks">
       <a href="#about">About</a>
       <a href="#education">Education</a>
       <a href="#publications">Publications</a>
@@ -271,7 +292,7 @@ layout: none
 
     <div class="section" id="contact">
       <h2>Contact &amp; Links</h2>
-      <p style="font-size:14px;margin-bottom:14px;color:#4b5563;">
+      <p style="font-size:14px;margin-bottom:14px;color:var(--text-secondary);">
         <strong>Email:</strong> <a href="mailto:xingcheng.xu18@gmail.com">xingcheng.xu18@gmail.com</a><br>
         <strong>Affiliation:</strong> <a href="https://www.shlab.org.cn/" target="_blank">Shanghai AI Laboratory</a><br>
         <strong>Address:</strong> Xuhui District, Shanghai, China
@@ -305,6 +326,11 @@ const saved=localStorage.getItem('theme');
 if(saved){setTheme(saved)}else if(window.matchMedia('(prefers-color-scheme:dark)').matches){setTheme('dark')}
 window.matchMedia('(prefers-color-scheme:dark)').addEventListener('change',e=>{if(!localStorage.getItem('theme')){setTheme(e.matches?'dark':'light')}});
 toggle.addEventListener('click',()=>{setTheme(html.getAttribute('data-theme')==='dark'?'light':'dark')});
+// Mobile menu
+const menuBtn=document.getElementById('menuToggle');
+const navLinksEl=document.getElementById('navLinks');
+menuBtn.addEventListener('click',()=>{navLinksEl.classList.toggle('open')});
+navLinksEl.querySelectorAll('a').forEach(a=>a.addEventListener('click',()=>{navLinksEl.classList.remove('open')}));
 // Back to top
 const btn=document.getElementById('backToTop');
 window.addEventListener('scroll',()=>{btn.classList.toggle('visible',window.scrollY>400)});
