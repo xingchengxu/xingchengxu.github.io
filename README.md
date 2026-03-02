@@ -39,7 +39,7 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 
 * Zhao Tong, Chunlin Gong, Yiping Zhang, Haichao Shi, Qiang Liu, Xingcheng Xu📧, Shu Wu, Xiao-Yu Zhang. “CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation.” *arXiv preprint arXiv:2602.04856*, 2026. <br /> <a href="https://arxiv.org/abs/2602.04856" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2602.04856" title="[PDF]" target="_blank">[PDF]</a>
 
-* Zeming Wei, Qiaosheng Zhang, Xia Hu, Xingcheng Xu📧. “RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning.” *arXiv preprint arXiv:2602.04224*, 2026. <br /> <a href="https://arxiv.org/abs/2602.04224" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2602.04224" title="[PDF]" target="_blank">[PDF]</a>
+* Zeming Wei, Qiaosheng Zhang, Xia Hu, Xingcheng Xu📧. “RAPO: Risk-Aware Preference Optimization for Generalizable Safe Reasoning.” *arXiv preprint arXiv:2602.04224*, 2026. (ICLR 2026 Trustworthy AI) <br /> <a href="https://arxiv.org/abs/2602.04224" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2602.04224" title="[PDF]" target="_blank">[PDF]</a>
 
 * Xiaoyu Wen, Zhida He, Han Qi, Ziyu Wan, Zhongtian Ma, Ying Wen, Tianhang Zheng, Xingcheng Xu, Chaochao Lu, Qiaosheng Zhang. “MAGIC: A Co-Evolving Attacker-Defender Adversarial Game for Robust LLM Safety.” *arXiv preprint arXiv:2602.01539*, 2026. <br /> <a href="https://arxiv.org/abs/2602.01539" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2602.01539" title="[PDF]" target="_blank">[PDF]</a>
 
