@@ -35,6 +35,8 @@ Probability Theory, Stochastic Analysis, Machine Learning, Artificial Intelligen
 *\* as first/cofirst author,  📧 corresponding author*
 
 **Artificial Intelligence**
+* Kai Wang, Biaojie Zeng, Zeming Wei, Chang Jin, Hefeng Zhou, Xiangtian Li, Chao Yang, Jingjing Qu, Xingcheng Xu📧, Xia Hu. “TrinityGuard: A Unified Framework for Safeguarding Multi-Agent Systems.” *arXiv preprint arXiv:2603.15408*, 2026. <br /> <a href=”https://arxiv.org/abs/2603.15408” title=”[ArXiv Version]” target=”_blank”>[ArXiv Version]</a> <a href=”https://arxiv.org/pdf/2603.15408” title=”[PDF]” target=”_blank”>[PDF]</a>
+
 * Xingcheng Xu\*, Jingjing Qu, Qiaosheng Zhang, Chaochao Lu, Yanqing Yang, Na Zou, Xia Hu. “Epistemic Traps: Rational Misalignment Driven by Model Misspecification.” 2026. <br /> <a href="https://safeagi-01.github.io/papers/rational-misalignment/" title="[Version]" target="_blank">[Version]</a> <a href="https://safeagi-01.github.io/papers/rational-misalignment/Rational-Misalignment-Paper-2026-01-27.pdf" title="[PDF]" target="_blank">[PDF]</a>
 
 * Zhao Tong, Chunlin Gong, Yiping Zhang, Haichao Shi, Qiang Liu, Xingcheng Xu📧, Shu Wu, Xiao-Yu Zhang. “CoT is Not the Chain of Truth: An Empirical Internal Analysis of Reasoning LLMs for Fake News Generation.” *arXiv preprint arXiv:2602.04856*, 2026. <br /> <a href="https://arxiv.org/abs/2602.04856" title="[ArXiv Version]" target="_blank">[ArXiv Version]</a> <a href="https://arxiv.org/pdf/2602.04856" title="[PDF]" target="_blank">[PDF]</a>
